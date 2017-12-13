@@ -1,0 +1,1051 @@
+DateTime,Name,Sport,Trainer,Distance,Workout_Type,Type
+2014-01-05 08:24:28,Windsor Ride,Ride,False,92.3972,,Ride
+2014-01-07 19:27:21,Turbo intervals,Ride,True,36.335,,Trainer
+2014-01-09 19:51:27,"09/01/2014 Richmond, Greater London, United Kingdom",Run,False,3.6816999999999998,0,Run
+2014-01-11 08:46:59,"11/01/2014 Richmond, Greater London, United Kingdom",Ride,False,68.0642,,Ride
+2014-01-12 08:48:01,Surrey Hills with Jamie,Ride,False,105.719,,Ride
+2014-01-14 19:11:47,Turbo 2x20mins,Ride,True,34.8615,,Trainer
+2014-01-15 19:46:41,"15/01/2014 London, UK, England, United Kingdom",Run,False,4.5458,0,Run
+2014-01-18 09:59:28,Shere short ride,Ride,False,27.9087,,Ride
+2014-01-19 15:44:45,Richmond park couple of laps with Garmin Vectors,Ride,False,29.1326,,Ride
+2014-01-21 19:53:45,Turbo 8: 3x15mins increasing cadence,Ride,True,38.628,0,Trainer
+2014-01-23 19:44:57,"23/01/2014 Richmond, Greater London, United Kingdom",Run,False,5.0983,0,Run
+2014-01-25 14:17:54,LD Saturday Morning Ride,Ride,False,40.8271,,Ride
+2014-01-26 08:30:10,"26/01/2014 Brentford, England, United Kingdom",Ride,False,27.6205,,Ride
+2014-01-27 19:29:09,"27/01/2014 Richmond, Greater London, United Kingdom",Run,False,6.6053999999999995,0,Run
+2014-01-28 19:21:23,Turbo 2x20mins,Ride,True,39.1245,,Trainer
+2014-01-30 19:41:22,"30/01/2014 Richmond, England, United Kingdom",Run,False,9.1123,0,Run
+2014-02-01 13:21:04,Ride from Hillingdon,Ride,False,16.7785,,Ride
+2014-02-01 14:43:56,Imperial race,Ride,False,44.7226,11,Race
+2014-02-01 15:57:17,Ride to Hillingdon,Ride,False,16.3216,,Ride
+2014-02-02 10:49:25,Walton Bridge on P3,Ride,False,44.801300000000005,0,Ride
+2014-02-06 19:48:31,Barnes jog,Run,False,6.5796,0,Run
+2014-02-08 11:09:30,London Dynamo Longcross race,Ride,False,79.174,11,Race
+2014-02-09 08:36:22,Richmond Park easy lap,Run,False,11.585,0,Run
+2014-02-11 19:42:19,Turbo 2x20mins @ 300W,Ride,True,37.687599999999996,,Trainer
+2014-02-13 19:20:38,"13/02/2014 Richmond, Greater London, United Kingdom",Run,False,7.0113,0,Run
+2014-02-15 11:16:32,London Dynamos Handicap race,Ride,False,80.7224,,Ride
+2014-02-16 09:26:06,Surrey Hills with Jamie,Ride,False,89.7079,,Ride
+2014-02-19 19:22:11,"19/02/2014 Richmond, Greater London, United Kingdom",Run,False,7.9803999999999995,0,Run
+2014-02-22 13:38:27,"22/02/2014 Palma De Mallorca, PM, Spain",Ride,False,69.4621,,Ride
+2014-02-23 10:34:03,Mallorca day 2 Palma to Petra and back,Ride,False,133.586,,Ride
+2014-02-24 10:35:10,"Mallorca day 3, over the hill to Soller and back",Ride,False,131.127,0,Ride
+2014-02-25 10:39:39,"Mallorca day 4, Inca loop",Ride,False,105.624,0,Ride
+2014-02-26 10:40:23,"Mallorca day 5, recovery ride with Nicky",Ride,False,48.0464,,Ride
+2014-02-27 10:04:15,"Mallorca day 6, big ride to Sa Calobra and back",Ride,False,155.682,,Ride
+2014-02-28 10:05:23,"Mallorca day 7, easy ride",Ride,False,79.8415,0,Ride
+2014-03-01 10:23:10,"Mallorca day 8, ride up the island to Pollença",Ride,False,145.799,0,Ride
+2014-03-02 10:10:30,"Mallorca day 9, ride out to Formentor",Ride,False,80.43430000000001,0,Ride
+2014-03-08 09:38:04,Dunsfold 3rds - 3rd place,Ride,False,84.9442,11,Race
+2014-03-09 10:03:26,Surrey Hills short with Jamie,Ride,False,92.91860000000001,,Ride
+2014-03-11 19:29:25,Turbo 2x20mins,Ride,True,38.171699999999994,,Trainer
+2014-03-12 19:45:01,Richmond Park easy lap,Run,False,10.811399999999999,0,Run
+2014-03-15 09:29:42,"Bayeux Race 1, Newick, 28th place",Ride,False,100.281,11,Race
+2014-03-16 08:40:34,Kingston to Windsor cruise on TT bike,Ride,False,67.6784,0,Ride
+2014-03-18 19:46:29,Turbo simulated crit race,Ride,True,32.5,0,Trainer
+2014-03-19 19:31:01,Barnes jog,Run,False,6.2328,0,Run
+2014-03-21 17:37:56,Richmond Park hailstorm,Ride,False,29.013,,Ride
+2014-03-22 08:17:01,Dynamos 1st group,Ride,False,53.56,,Ride
+2014-03-23 08:35:39,Surrey Hills on P3 with Jamie,Ride,False,84.8299,,Ride
+2014-03-26 19:23:04,"26/03/2014 London, England, United Kingdom",Run,False,9.078,,Run
+2014-03-29 11:31:40,"29/03/2014 Richmond, Greater London, United Kingdom",Ride,False,39.6908,,Ride
+2014-03-30 11:22:40,"30/03/2014 Richmond, Greater London, United Kingdom",Ride,False,59.069900000000004,,Ride
+2014-04-01 19:11:24,Richmond Park single lap TT,Ride,False,18.948700000000002,,Ride
+2014-04-02 19:26:43,Richmond Park jog,Run,False,6.668,0,Run
+2014-04-05 09:16:18,Dynamos a couple of laps,Ride,False,28.8493,,Ride
+2014-04-06 14:42:46,"06/04/2014 Richmond, Greater London, United Kingdom",Ride,False,39.689699999999995,,Ride
+2014-04-10 12:29:32,Lunchtime jog,Run,False,5.681,0,Run
+2014-04-10 19:16:27,Richmond Park a couple of laps with Dave and Rob,Ride,False,28.9435,0,Ride
+2014-04-12 14:21:17,Time Trial H25/8 57:00 windy (power not working),Ride,False,40.3686,0,Ride
+2014-04-13 07:32:07,Oxford solo marathon,Ride,False,231.393,,Ride
+2014-04-14 16:16:50,Richmond Park couple of laps easy,Ride,False,30.278,,Ride
+2014-04-15 16:34:10,Richmond Park easy lap,Run,False,11.5655,0,Run
+2014-04-16 14:34:53,Surrey Hills solo easy pace,Ride,False,105.404,,Ride
+2014-04-17 15:14:07,"17/04/2014 Richmond, Greater London, United Kingdom",Ride,False,29.0804,,Ride
+2014-04-18 14:11:32,"18/04/2014 Richmond, Greater London, United Kingdom",Ride,False,18.1395,,Ride
+2014-04-19 10:31:32,"SERRL Stage 1, short TT, 29th",Ride,False,13.9704,0,Ride
+2014-04-19 13:58:29,"SERRL Stage 2, disappointing race, dropped on 2nd lap",Ride,False,79.696,,Ride
+2014-04-20 17:22:40,Richmond Park jog,Run,False,3.9159,0,Run
+2014-04-21 07:57:14,Dynamos Surrey Hills,Ride,False,115.176,0,Ride
+2014-04-24 19:11:51,Couple of Nightingale Lanes,Ride,False,22.7333,,Ride
+2014-04-26 10:41:19,Short pre-race spin with Jamie,Ride,False,25.8615,,Ride
+2014-04-27 09:35:08,Milland Hill Race - OK but didn't have the legs on the final hill,Ride,False,84.00460000000001,11,Race
+2014-04-29 19:13:21,Richmond Park 3 laps in the evening,Ride,False,39.823699999999995,,Ride
+2014-04-30 19:53:05,"4/30/14 London, England, United Kingdom",Run,False,6.6484,0,Run
+2014-05-03 08:15:11,LD Saturday Morning Ride,Ride,False,49.708,,Ride
+2014-05-04 08:21:58,"5/4/14 Richmond, Greater London, United Kingdom",Ride,False,6.3946000000000005,,Ride
+2014-05-04 09:09:13,Surrey Hills Solo,Ride,False,114.209,0,Ride
+2014-05-05 06:48:03,"5/5/14 Hampton, England, United Kingdom",Run,False,9.8961,0,Run
+2014-05-07 18:43:09,EWNR,Ride,False,50.8996,,Ride
+2014-05-10 09:05:34,"Bayeaux Race 2, Beachy Head (WINDY and raining)",Ride,False,93.7436,11,Race
+2014-05-13 19:26:22,Richmond Park jog,Run,False,7.3746,0,Run
+2014-05-14 18:46:13,EWNR,Ride,False,39.8217,,Ride
+2014-05-15 19:20:10,Walton Bridge TT,Ride,False,47.100699999999996,,Ride
+2014-05-17 09:21:11,"17/05/2014 Richmond, Greater London, United Kingdom",Ride,False,29.3164,,Ride
+2014-05-18 13:33:58,LVRC National Road Race about 10th,Ride,False,89.0351,11,Race
+2014-05-20 19:30:12,Richmond Park jog,Run,False,9.507299999999999,0,Run
+2014-05-22 20:11:49,Simulated Crit Race,Ride,True,32.5,,Trainer
+2014-05-24 15:42:32,H10/8 Time Trial 21:42,Ride,False,16.2957,,Ride
+2014-05-25 11:07:41,Easy ride with Jamie,Ride,False,35.9826,,Ride
+2014-05-26 15:30:07,Richmond MTB,Ride,False,25.3481,,Ride
+2014-05-27 19:18:46,Turbo 13 @ 280,Ride,True,34.0,,Trainer
+2014-05-29 19:46:19,Barnes jog,Run,False,6.783,0,Run
+2014-05-31 08:17:30,Dynamos 1st group,Ride,False,52.7466,,Ride
+2014-06-01 08:34:57,Windsor ride with Optima,Ride,False,89.7927,,Ride
+2014-06-03 19:29:10,Turbo 2x20mins @ 280W,Ride,True,35.8,,Trainer
+2014-06-06 12:34:01,Lunch Ride,Ride,False,6.0221,0,Ride
+2014-06-07 08:52:45,British Masters - bad race,Ride,False,119.663,11,Race
+2014-06-08 13:53:00,Richmond Park easy,Ride,False,28.851,,Ride
+2014-06-10 18:53:44,Evening ride to Claygate,Ride,False,47.3942,,Ride
+2014-06-11 19:11:52,Nightingale Lane x 12,Ride,False,35.522800000000004,,Ride
+2014-06-14 14:15:25,Time Trial G10/42 poor ride,Ride,False,16.2223,,Ride
+2014-06-15 10:33:30,Richmond Park 3 easy laps,Ride,False,39.7483,,Ride
+2014-06-17 19:18:46,Evening ride to Oxshott,Ride,False,45.8474,,Ride
+2014-06-18 19:05:13,Richmond Park a couple of laps,Ride,False,28.9088,,Ride
+2014-06-21 09:35:40,Bayeux Race 3,Ride,False,100.334,11,Race
+2014-06-22 09:14:18,Richmond Park easy lap,Run,False,11.611,0,Run
+2014-06-24 19:04:37,Walton Bridge TT,Ride,False,47.9026,,Ride
+2014-06-25 19:07:51,Nightingale Lane x 4 plus a loop,Ride,False,28.7668,,Ride
+2014-06-28 13:33:25,Redhill E/1/2/3 not a bad race 30th,Ride,False,133.659,11,Race
+2014-06-29 10:48:52,Windsor with Jamie and Marcus,Ride,False,95.191,,Ride
+2014-07-01 19:13:06,Brooklands loop,Ride,False,58.4425,,Ride
+2014-07-03 19:23:01,Richmond Park 2 laps,Ride,False,28.987299999999998,,Ride
+2014-07-06 10:00:00,Sotonia Race,Ride,False,93.0,0,Ride
+2014-07-06 14:00:00,Kitesurfing F4,Kitesurf,False,10.0,,Kitesurf
+2014-07-09 19:10:09,Evening ride Walton Esher,Ride,False,44.441900000000004,,Ride
+2014-07-13 10:04:18,Surrey League Bletchingley,Ride,False,90.2616,11,Race
+2014-07-13 12:31:36,Bletchingley warm down,Ride,False,8.162,,Ride
+2014-07-15 19:24:14,Evening ride,Ride,False,41.4125,,Ride
+2014-07-18 08:35:51,MTB with Jamie,Ride,False,26.3064,,Ride
+2014-07-20 08:26:29,Sa Roca and beaches,Ride,False,36.816300000000005,,Ride
+2014-07-20 17:10:40,Sant Tomas,Ride,False,35.3104,,Ride
+2014-07-22 10:39:25,Sa Roca plus beaches,Ride,False,34.2767,,Ride
+2014-07-25 07:34:24,"25/07/2014 Es Mercadal, PM, Spain",Ride,False,30.5694,,Ride
+2014-07-26 08:15:34,Dynamos 1st group,Ride,False,53.595,,Ride
+2014-07-31 11:01:03,"Mountain Bike/Hike up Dikeos Kos, Greece",Ride,False,32.2816,,Ride
+2014-08-01 10:57:15,"Mountain biking to windmills Kos, Greece",Ride,False,22.4975,,Ride
+2014-08-03 09:45:04,"Redhill Race, Norwood Hill, bonked on last lap",Ride,False,83.8725,,Ride
+2014-08-05 19:14:22,Richmond Park a couple of laps,Ride,False,29.641,,Ride
+2014-08-07 19:03:50,Nightingale Lane x 4 plus a loop,Ride,False,37.6742,,Ride
+2014-08-10 06:02:10,Ride London in the rain (shortened route),Ride,False,138.427,,Ride
+2014-08-12 19:11:57,Easy ride,Ride,False,15.9749,,Ride
+2014-08-14 19:27:29,Richmond Park jog,Run,False,9.3903,0,Run
+2014-08-16 09:24:35,Richmond Park a couple of laps,Ride,False,26.864099999999997,,Ride
+2014-08-17 09:34:10,Alford 2/3 up there in the sprint for the line,Ride,False,103.305,11,Race
+2014-08-19 19:14:48,Walton Bridge TT,Ride,False,44.3629,,Ride
+2014-08-21 19:18:53,Richmond Park full lap,Run,False,11.5699,0,Run
+2014-08-28 19:35:42,Richmond Park one tentative lap,Ride,False,18.1865,,Ride
+2014-08-30 10:55:19,Richmond Park 2 tentative laps,Ride,False,28.9511,,Ride
+2014-09-01 10:32:35,Haute Route Pyrenees Stage 1,Ride,False,93.9297,11,Race
+2014-09-02 08:00:41,Haute Route Pyrenees Stage 2,Ride,False,120.832,11,Race
+2014-09-03 07:30:59,Haute Route Pyrenees Stage 3,Ride,False,162.616,11,Race
+2014-09-04 07:59:41,Haute Route Pyrenees Stage 4,Ride,False,121.451,11,Race
+2014-09-05 11:18:40,Haute Route Pyrenees - Stage 5 TT,Ride,False,16.553900000000002,11,Race
+2014-09-05 12:57:55,Ride down from Tourmalet,Ride,False,37.3127,,Ride
+2014-09-06 07:30:49,Haute Route Pyrenees Stage 6,Ride,False,149.93,11,Race
+2014-09-07 08:30:59,Haute Route Pyrenees Stage 7,Ride,False,114.079,11,Race
+2014-09-18 19:05:13,Richmond Park 2 laps,Ride,False,29.0755,,Ride
+2014-09-20 08:18:36,Dynamos 4/5th group?,Ride,False,53.6457,,Ride
+2014-09-21 11:49:39,Richmond Park 2 laps,Ride,False,28.9433,,Ride
+2014-09-24 19:12:19,Barnes jog,Run,False,7.2133,0,Run
+2014-09-27 08:11:31,Dynamos 3rd group,Ride,False,53.658300000000004,,Ride
+2014-10-01 19:28:46,Richmond Park evening jog,Run,False,6.927,0,Run
+2014-10-03 12:27:31,Lunch Run,Run,False,5.7338000000000005,0,Run
+2014-10-04 08:13:46,Dynamos 1st group depleted by club champs,Ride,False,53.8926,,Ride
+2014-10-05 14:18:51,Chertsey ride - easy,Ride,False,60.029,,Ride
+2014-10-07 20:26:40,Turbo Ventoux 2008 - Sault - Bedoin,Ride,True,39.9325,,Trainer
+2014-10-09 19:36:44,Richmond Park full lap road,Run,False,10.7769,0,Run
+2014-10-11 08:18:10,Dynamos 1st group,Ride,False,53.0546,,Ride
+2014-10-12 10:51:17,MTB with Marcus,Ride,False,26.0888,,Ride
+2014-10-14 19:34:07,Turbo 13 @ 280,Ride,True,33.638400000000004,,Trainer
+2014-10-16 19:49:41,Richmond Park full lap road,Run,False,10.7789,0,Run
+2014-10-18 12:00:00,Kitesurfing,Kitesurf,False,0.0,,Kitesurf
+2014-10-19 09:58:16,Surrey Hills solo ex Leith Hill,Ride,False,102.697,,Ride
+2014-10-21 19:35:44,Turbo Bike Hill Training 16,Ride,True,38.4808,,Trainer
+2014-10-23 19:30:55,Richmond Park short loop easy,Run,False,9.0167,0,Run
+2014-10-25 07:34:04,Ride out to Windsor,Ride,False,33.3769,,Ride
+2014-10-25 09:35:26,Dynamo hill climb plus ride home,Ride,False,41.5088,,Ride
+2014-10-26 11:09:48,Richmond Park 8 hills,Run,False,12.7835,0,Run
+2014-10-28 20:02:49,Turbo 2x20mins @ 280W,Ride,True,35.042699999999996,,Trainer
+2014-10-30 19:42:16,Richmond Park lap - getting quicker,Run,False,10.787700000000001,0,Run
+2014-11-01 09:11:24,Box Hill route,Run,False,11.7932,0,Run
+2014-11-02 13:09:32,Bracknell MTB with Optima guys,Ride,False,21.976200000000002,,Ride
+2014-11-04 20:10:55,Turbo 11 @ 330,Ride,True,39.3347,,Trainer
+2014-11-06 19:30:20,Richmond Park full lap road,Run,False,10.8126,0,Run
+2014-11-08 08:13:04,Dynamos 2 laps,Ride,False,33.7061,,Ride
+2014-11-09 11:03:19,Barnes jog,Run,False,7.2478,0,Run
+2014-11-12 19:49:04,Turbo 2x20mins @ 280W,Ride,True,30.8815,,Trainer
+2014-11-13 19:42:24,Nightingale Lane x 8 plus a loop,Run,False,11.341299999999999,0,Run
+2014-11-15 08:14:02,Dynamos 2nd group,Ride,False,53.5122,,Ride
+2014-11-16 10:39:45,Richmond Wimbledon 20km off road,Run,False,20.2897,0,Run
+2014-11-20 19:33:48,Barnes jog,Run,False,6.6033,0,Run
+2014-11-22 09:27:25,Wildman MTB section,Ride,False,19.302799999999998,,Ride
+2014-11-22 10:30:01,Wildman 2014 (13th),Ride,False,34.6064,11,Race
+2014-11-29 08:46:45,Dynamos 2nd group,Ride,False,53.8471,,Ride
+2014-12-02 19:26:08,Turbo power session BRP 16,Ride,True,29.555,,Trainer
+2014-12-04 19:47:57,"04/12/2014 London, England, United Kingdom",Run,False,6.0633,,Run
+2014-12-06 14:22:07,Imperial Race 1 - 3rds racing with E12,Ride,False,51.1342,11,Race
+2014-12-15 10:26:32,Ride in the park,Ride,False,28.9345,,Ride
+2014-12-22 10:02:54,Val d'Isere,AlpineSki,False,60.8301,,AlpineSki
+2014-12-23 09:43:35,Val d'Isere,AlpineSki,False,75.95039999999999,,AlpineSki
+2014-12-24 09:29:57,"Val-d'Isère, Rhône-Alpes, France",AlpineSki,False,68.7981,,AlpineSki
+2014-12-24 17:34:52,Val-d'Isère dropped EUR50 note,Run,False,4.0872,0,Run
+2014-12-29 17:56:49,"29/12/2014 Richmond, Greater London, United Kingdom",Run,False,10.6953,,Run
+2015-01-01 10:01:46,"01/01/2015 London, England, United Kingdom",Run,False,11.495299999999999,,Run
+2015-01-03 12:04:41,"03/01/2015 London, England, United Kingdom",Run,False,11.148200000000001,,Run
+2015-01-08 20:14:52,"08/01/2015 London, England, United Kingdom",Run,False,9.059,,Run
+2015-01-10 08:30:07,G3,Run,False,10.701600000000001,,Run
+2015-01-13 19:22:14,Turbo 2x20mins @ 280W,Ride,True,36.586400000000005,,Trainer
+2015-01-15 19:32:15,"15/01/2015 London, England, United Kingdom",Run,False,11.8265,,Run
+2015-01-17 10:35:56,Turbo The Longest Shortcut,Ride,True,60.195800000000006,,Trainer
+2015-01-20 19:56:02,Turbo 11 @ 330,Ride,True,40.4549,,Trainer
+2015-01-22 19:52:59,Evening Run,Run,False,10.8734,0,Run
+2015-01-24 14:20:45,Imperial Race 3rds racing with E12,Ride,False,52.095699999999994,11,Race
+2015-01-25 08:50:37,"Windsor on P3 with Dan and Ashley, blast back",Ride,False,103.527,,Ride
+2015-01-27 19:45:10,Turbo 2x20mins @ 300W,Ride,True,34.122699999999995,,Trainer
+2015-01-29 19:56:03,"29/01/2015 London, England, United Kingdom",Run,False,10.7812,,Run
+2015-01-31 10:37:41,"31/01/2015 London, England, United Kingdom",Run,False,14.4161,,Run
+2015-02-03 20:27:46,Turbo Chop Suey: Bamboo with rice,Ride,True,20.1937,,Trainer
+2015-02-05 19:36:26,"05/02/2015 Richmond, Greater London, United Kingdom",Run,False,6.535100000000001,,Run
+2015-02-07 09:45:57,Iceman bike leg detail,Ride,False,17.6355,,Ride
+2015-02-07 10:25:00,Iceman Duathlon,Ride,False,31.763900000000003,,Ride
+2015-02-08 12:15:26,Couple of easy laps on P3,Ride,False,29.7697,,Ride
+2015-02-10 20:32:18,Turbo Ventoux 2008 - Ventoux descent 31km,Ride,False,30.9569,,Ride
+2015-02-12 19:46:23,"12/02/2015 Richmond, Greater London, United Kingdom",Run,False,6.598199999999999,,Run
+2015-02-14 17:11:52,"14/02/2015 Benidoleig, Comunidad Valenciana, Spain",Ride,False,23.398400000000002,,Ride
+2015-02-14 18:31:04,Citrus Cycling Climb,Ride,False,7.1913,,Ride
+2015-02-16 10:03:02,Citrus Cycling Ride with Adam (and Nicky first part),Ride,False,96.62769999999999,,Ride
+2015-02-17 09:34:35,"Citrus Cycling - cold, wet and very windy",Ride,False,78.5716,,Ride
+2015-02-18 09:54:56,Citrus Cycling 3 peaks - very windy ,Ride,False,91.8547,,Ride
+2015-02-19 16:50:52,"19/02/2015 London, England, United Kingdom",Run,False,7.5725,,Run
+2015-02-21 08:29:58,"G3 - decent run, 10th overall",Run,False,10.824200000000001,0,Run
+2015-02-21 15:55:09,"21/02/2015 Richmond, Greater London, United Kingdom",Ride,False,18.520400000000002,,Ride
+2015-02-22 10:44:44,Morning Ride to Weybridge,Ride,False,50.756800000000005,,Ride
+2015-02-24 20:01:10,Turbo 2x20mins @ 300W,Ride,True,39.8218,,Trainer
+2015-02-28 11:02:01,Surrey League Longcross race,Ride,False,79.6911,11,Race
+2015-03-01 11:57:57,"01/03/2015 London, England, United Kingdom",Run,False,10.2936,,Run
+2015-03-04 15:48:04,Gentle loop,Ride,False,18.1542,,Ride
+2015-03-05 16:28:14,Aternoon ride,Ride,False,28.9848,,Ride
+2015-03-07 09:33:40,Dunsfold 3rds,Ride,False,85.23939999999999,11,Race
+2015-03-10 19:38:30,Turbo 11 @ 330,Ride,True,40.46,,Trainer
+2015-03-12 19:37:51,"12/03/2015 London, England, United Kingdom",Run,False,9.9398,,Run
+2015-03-14 11:00:10,Longcross Race,Ride,False,79.1465,11,Race
+2015-03-15 09:27:25,Ride out to watch Jamie race,Ride,False,76.33210000000001,,Ride
+2015-03-17 19:38:27,Turbo 2x20 under/over,Ride,True,38.8588,,Trainer
+2015-03-19 20:09:25,"19/03/2015 London, England, United Kingdom",Run,False,8.1011,,Run
+2015-03-21 14:25:25,G10/46 punctured,Ride,False,11.2678,,Ride
+2015-03-22 09:07:58,Surrey Hills with Jamie,Ride,False,112.331,,Ride
+2015-03-24 19:46:42,Turbo 2x20mins @ 280W,Ride,True,40.385400000000004,,Trainer
+2015-03-26 19:41:38,"26/03/2015 London, England, United Kingdom",Run,False,10.8091,,Run
+2015-03-28 15:12:25,Hillingdon Race,Ride,False,53.937599999999996,11,Race
+2015-03-29 16:45:03,"29/03/2015 London, England, United Kingdom",Run,False,11.914200000000001,,Run
+2015-03-31 19:46:42,Turbo BRI - 18,Ride,True,27.6195,,Trainer
+2015-04-02 19:20:16,Richmond Park evening lap,Ride,False,22.3401,,Ride
+2015-04-04 15:17:29,Hillingdon Race - got stuck in a crash and dropped,Ride,False,48.771800000000006,11,Race
+2015-04-05 10:00:57,Ride with Nicky plus one lap,Ride,False,33.3278,,Ride
+2015-04-06 08:17:12,Solo ride to Windsor - Drift Road,Ride,False,113.269,,Ride
+2015-04-07 19:14:28,Richmond Park couple of laps on P3,Ride,False,29.5977,,Ride
+2015-04-09 19:40:35,"09/04/2015 London, England, United Kingdom",Run,False,10.6396,,Run
+2015-04-11 13:56:16,Short spin before race,Ride,False,18.4653,,Ride
+2015-04-12 09:52:32,Surrey Hills with Jamie,Ride,False,104.1,,Ride
+2015-04-14 19:22:19,Esher loop on P3,Ride,False,38.0547,,Ride
+2015-04-15 18:44:53,eWNR,Ride,False,50.897800000000004,,Ride
+2015-04-16 19:20:44,"16/04/2015 London, England, United Kingdom",Run,False,10.3469,,Run
+2015-04-18 08:10:46,Henley Marlow long fast solo,Ride,False,150.921,,Ride
+2015-04-20 19:06:58,Richmond Park couple of laps,Ride,False,28.977,,Ride
+2015-04-22 18:43:00,eWNR 3 laps,Ride,False,40.227199999999996,,Ride
+2015-04-23 19:37:29,"23/04/2015 London, England, United Kingdom",Run,False,8.353200000000001,,Run
+2015-04-28 09:03:21,Easy ride with Nicky,Ride,False,16.4712,,Ride
+2015-05-02 11:04:21,Richmond Park pre-race spin,Ride,False,28.966900000000003,,Ride
+2015-05-03 09:35:50,LVRC GS Vecchi 5th,Ride,False,81.4,,Ride
+2015-05-04 12:37:23,"04/05/2015 Richmond, Greater London, United Kingdom",Ride,False,30.9142,,Ride
+2015-05-06 18:56:21,eWNR nobody there!,Ride,False,40.1396,,Ride
+2015-05-07 19:38:05,"07/05/2015 London, England, United Kingdom",Run,False,9.395100000000001,,Run
+2015-05-09 09:11:13,Richmond Park couple of laps,Ride,False,29.202099999999998,,Ride
+2015-05-10 10:04:51,LVRC Swindon  Lost pedal in the sprint,Ride,False,65.08,11,Race
+2015-05-12 19:11:06,Walton Bridge on P3,Ride,False,42.3861,,Ride
+2015-05-13 18:46:56,eWNR Chertsey,Ride,False,68.26010000000001,,Ride
+2015-05-14 19:50:29,"14/05/2015 London, England, United Kingdom",Run,False,7.1902,,Run
+2015-05-16 06:49:43,"G10/57 Time Trial - lost a minute, wrong turn at roundabout",Ride,False,16.3359,,Ride
+2015-05-17 08:33:26,Surrey Hills with Dynamos,Ride,False,112.337,,Ride
+2015-05-20 18:47:35,eWNR Chertsey,Ride,False,67.8385,,Ride
+2015-05-21 20:20:00,Garmino non-starto,Ride,False,23.0,0,Ride
+2015-05-23 14:54:01,Addlestone loop,Ride,False,65.7566,,Ride
+2015-05-24 08:33:12,Windsor Dynamos,Ride,False,104.133,,Ride
+2015-05-25 10:34:14,Nightingale x 12,Ride,False,35.968,,Ride
+2015-05-27 18:51:20,eWNR just 2 laps - tapering,Ride,False,29.4211,,Ride
+2015-05-30 13:27:07,National Masters Champs,Ride,False,105.912,11,Race
+2015-05-31 15:34:06,"31/05/2015 London, England, United Kingdom",Run,False,7.0089,,Run
+2015-06-04 19:07:48,Richmond Park 3 laps - feeling better,Ride,False,39.6355,,Ride
+2015-06-06 09:54:45,Richmond Park easy lap,Ride,False,18.1047,,Ride
+2015-06-07 12:00:10,Tour of Cambridgeshire 5th in age group,Ride,False,133.614,11,Race
+2015-06-10 18:44:28,eWNR,Ride,False,50.9897,,Ride
+2015-06-13 16:12:54,Eastbourne Criterium  - 5th or 6th,Ride,False,28.7286,11,Race
+2015-06-14 09:33:52,Cutmill Race,Ride,False,59.9921,11,Race
+2015-06-16 19:17:32,Longcross loop solo - nice evening,Ride,False,61.7617,,Ride
+2015-06-18 19:17:21,Richmond Park just one lap P3,Ride,False,18.220200000000002,,Ride
+2015-06-20 13:21:03,Cyclopark 3rds 13th,Ride,False,40.7635,11,Race
+2015-06-21 05:12:55,London Brighton London,Ride,False,195.676,,Ride
+2015-06-24 18:53:34,eWNR Chertsey,Ride,False,68.25739999999999,,Ride
+2015-06-25 19:39:47,"25/06/2015 Richmond, Greater London, United Kingdom",Run,False,9.195200000000002,,Run
+2015-06-27 08:18:46,Jamie's birthday ride,Ride,False,118.74,,Ride
+2015-06-30 07:55:38,Commute,Ride,False,11.6614,,Ride
+2015-06-30 17:57:15,Work to Palace via Timbuktu,Ride,False,16.0076,,Ride
+2015-06-30 19:14:39,Palace Race - out-sprinted again,Ride,False,31.5641,11,Race
+2015-06-30 20:15:38,Home from Palace,Ride,False,18.06,,Ride
+2015-07-03 19:01:24,Tour of Sussex stage 1,Ride,False,58.8105,11,Race
+2015-07-04 09:31:43,Tour of Sussex stage 2 - decent finish,Ride,False,86.8952,11,Race
+2015-07-04 18:05:07,Tour of Sussex stage 3 - Beachy Head,Ride,False,3.8128,11,Race
+2015-07-05 09:52:37,Tour of Sussex stage 4,Ride,False,69.555,11,Race
+2015-07-08 20:00:00,Evening Windsurfing!,Windsurf,False,0.0,,Windsurf
+2015-07-09 19:07:55,Richmond Park - couple of laps on P3,Ride,False,29.2514,,Ride
+2015-07-11 09:31:37,Arbis Colbert Race - 7th!,Ride,False,76.162,11,Race
+2015-07-13 10:49:00,Corsica short warm up,Ride,False,28.0641,,Ride
+2015-07-14 18:25:32,"Corsica, Easy ride",Ride,False,17.314,,Ride
+2015-07-15 07:36:18,"Col d'Ospédale, Corsica ",Ride,False,109.428,,Ride
+2015-07-16 08:10:06,"Col de Bavella, Corsica",Ride,False,96.3222,,Ride
+2015-07-18 08:02:20,Conca loop,Ride,False,45.0121,,Ride
+2015-07-19 17:49:58,Evening ride with Jamie,Ride,False,29.4482,,Ride
+2015-07-21 19:41:36,Richmond Park 2 laps on P3,Ride,False,29.0555,,Ride
+2015-07-22 18:50:12,eWRN,Ride,False,51.1149,,Ride
+2015-07-25 16:20:00,Went Kitesurfing,Windsurf,False,0.0,,Windsurf
+2015-07-26 18:04:23,Evening Run,Run,False,8.2642,,Run
+2015-07-28 19:16:24,New version through Hersham,Ride,False,60.7181,,Ride
+2015-07-29 18:52:25,eWNR,Ride,False,50.9511,,Ride
+2015-08-01 13:29:08,Surrey League Vets Cyclopark 5th,Ride,False,64.18390000000001,11,Race
+2015-08-02 10:34:03,Not the Pru 100,Ride,False,160.587,,Ride
+2015-08-04 07:57:28,Ride to work,Ride,False,11.4647,,Ride
+2015-08-04 18:05:25,Ride to Palace,Ride,False,11.279,,Ride
+2015-08-04 19:14:04,Palace heavy legs,Ride,False,26.827,11,Race
+2015-08-04 20:20:20,Home from Palace,Ride,False,16.8705,,Ride
+2015-08-08 11:39:40,Down to Chertsey for 10m TT loop,Ride,False,57.966,,Ride
+2015-08-09 08:00:12,Where was Leith Hill?,Ride,False,117.316,,Ride
+2015-08-12 18:49:27,Quick spin round the park,Ride,False,18.268900000000002,,Ride
+2015-08-15 13:54:52,TT 2 Up with Jamie - 4th,Ride,False,20.406200000000002,,Ride
+2015-08-16 05:48:03,"Somewhat early, I feel, to do Legs of Steel",Ride,False,160.321,,Ride
+2015-08-20 18:53:15,"Two laps, six sprints, with Jamie",Ride,False,40.8471,,Ride
+2015-08-22 09:52:56,Short pre-race spin,Ride,False,18.6633,,Ride
+2015-08-23 09:32:14,"SL Sharpthorne - tried solo break, got caught - 7th",Ride,False,89.4164,,Ride
+2015-08-31 07:01:42,Haute Route Dolomites - Stage 1 (most of),Ride,False,157.13,11,Race
+2015-09-01 07:40:24,Haute Route Stage 2: edited highlights to save Garmin battery!,Ride,False,122.624,11,Race
+2015-09-02 11:58:41,Haute Route Stage 3 - TT,Ride,False,46.618300000000005,11,Race
+2015-09-03 09:00:16,Haute Route Stage 4 (shortened),Ride,False,80.6953,11,Race
+2015-09-04 07:00:09,Haute Route Stage 5 - only partly recorded before Garmin died,Ride,False,50.328300000000006,11,Race
+2015-09-05 08:01:17,Haute Route Stage 6 (part of) really suffered today,Ride,False,101.817,11,Race
+2015-09-06 07:02:38,Haute Route stage 7 (most of timed section),Ride,False,97.8412,11,Race
+2015-09-10 18:59:37,Short pre-race spin,Ride,False,18.1263,,Ride
+2015-09-12 09:31:57,Beeline 2/3 race - 20th,Ride,False,90.0629,11,Race
+2015-09-17 16:02:13,Afternoon Ride,Ride,False,18.1161,,Ride
+2015-09-19 09:27:56,Morning Ride,Ride,False,28.9279,,Ride
+2015-09-20 09:49:17,Surrey League Handicap Champs,Ride,False,95.0888,,Ride
+2015-09-25 11:05:56,River loop 2 up,Ride,False,58.0242,,Ride
+2015-09-26 09:52:35,Morning Ride,Ride,False,28.8945,,Ride
+2015-09-27 09:34:37,Milland Hill - about 20th,Ride,False,99.1599,11,Race
+2015-09-28 11:50:23,Lunch Ride,Ride,False,44.7431,,Ride
+2015-09-29 10:14:44,Morning Ride,Ride,False,31.5975,,Ride
+2015-09-30 11:40:37,Timanfaya,Ride,False,46.99,,Ride
+2015-10-01 16:51:54,Lanzarocky,Ride,False,45.621,,Ride
+2015-10-02 09:44:54,Mirador del Rio,Ride,False,97.8096,,Ride
+2015-10-03 17:00:40,Afternoon Ride,Ride,False,23.0695,,Ride
+2015-10-04 10:17:59,MTB up a volcano,Ride,False,15.4026,,Ride
+2015-10-05 10:32:52,Tres calderas run,Run,False,7.4878,0,Run
+2015-10-06 10:12:02,MTB Lanza,Ride,False,19.515400000000003,,Ride
+2015-10-10 13:46:38,Cyclo Park crash ouch!,Ride,False,32.5586,11,Race
+2015-10-11 11:01:09,Lunch Run,Run,False,11.555299999999999,,Run
+2015-10-11 17:54:00,Segment hunting in the park on P3,Ride,False,19.728900000000003,,Ride
+2015-10-17 08:17:42,Dynamos 3rd group,Ride,False,53.3858,,Ride
+2015-10-18 09:48:18,Morning Run,Run,False,11.8164,,Run
+2015-10-22 19:37:02,Evening Run,Run,False,10.7742,,Run
+2015-10-24 12:10:25,Lunch Ride,Ride,False,18.032400000000003,,Ride
+2015-10-24 13:34:42,Hillingdon race 8th,Ride,False,46.431,11,Race
+2015-10-24 14:58:18,Afternoon Ride,Ride,False,15.8304,,Ride
+2015-10-25 11:41:17,Richmond Park run,Run,False,11.6953,,Run
+2015-10-25 16:04:21,Afternoon Ride,Ride,False,18.387,,Ride
+2015-10-27 19:38:51,Turbo 11 @ 330,VirtualRide,True,56.8626,,Trainer
+2015-10-29 19:46:46,Evening Run,Run,False,6.570399999999999,,Run
+2015-10-31 14:06:34,Ride to Hillingdon,Ride,False,15.668,,Ride
+2015-10-31 15:34:11,Hillingdon Race 6th,Ride,False,41.629,11,Race
+2015-10-31 16:49:42,Home from Hillingdon,Ride,False,17.563,,Ride
+2015-11-01 15:28:26,Afternoon Ride,Ride,False,30.8564,,Ride
+2015-11-03 19:59:14,Anaerobic 20/40s 10:5:10,VirtualRide,True,31.3417,,Trainer
+2015-11-05 19:29:18,turbo Ventoux 2008 - Ventoux descent 31km,VirtualRide,False,30.9358,,VirtualRide
+2015-11-07 13:29:10,Race 3/4s got 5th/6th Now 2nd cat!!!,Ride,False,29.092,11,Race
+2015-11-07 14:31:11,Race E123 7th,Ride,False,39.7902,11,Race
+2015-11-08 10:50:58,"Headwind out, headwind home",Ride,False,101.881,,Ride
+2015-11-11 20:11:36,Ramp Test,Ride,True,23.553900000000002,,Trainer
+2015-11-14 11:08:22,Richmond Park full lap with 12 hills,Run,False,17.721700000000002,0,Run
+2015-11-15 10:01:24,MTB three up,Ride,False,26.0348,0,Ride
+2015-11-17 20:25:46,Fall of the Samurai,VirtualRide,True,22.8786,,Trainer
+2015-11-17 21:02:54,Buddha's Breakfast,VirtualRide,True,9.5793,,Trainer
+2015-11-19 19:32:33,Evening Run - Richmond Dark,Run,False,11.0295,,Run
+2015-11-21 11:28:15,Lunch Ride,Ride,False,28.984900000000003,,Ride
+2015-11-22 11:00:00,Sandhurst XC 62nd,Run,False,10.0,1,Run
+2015-11-24 19:46:02,Paradise Tour,VirtualRide,True,34.8551,,Trainer
+2015-11-27 13:50:00,Kitesurf North Sea,Kitesurf,False,0.0,,Kitesurf
+2015-11-28 12:52:27,Kiresurf,NordicSki,False,0.0,,NordicSki
+2015-12-02 19:22:47,Evening Run,Run,False,6.5776,,Run
+2015-12-05 10:20:01,Iceman duathlon 13th one second  behind Marcus,Run,False,31.2483,0,Run
+2015-12-06 11:48:15,December kitesurfing,Kitesurf,False,0.0,,Kitesurf
+2015-12-08 19:46:06,GoldenCircleCriterium,VirtualRide,True,35.8904,,Trainer
+2015-12-12 08:49:40,Dynamos 2nd group - power not calibrated,Ride,False,57.212300000000006,,Ride
+2015-12-13 15:12:00,Afternoon Run,Run,False,11.561,,Run
+2015-12-15 19:46:53,Ventoux 2008 - Ventoux descent 31km,VirtualRide,False,30.9277,,VirtualRide
+2015-12-20 16:24:07,Afternoon Run,Run,False,6.6548,,Run
+2015-12-22 19:49:03,Turbo 2 x 20 mins @ 300W,Ride,True,0.0,,Trainer
+2015-12-24 15:12:00,Afternoon Run,Run,False,7.708399999999999,,Run
+2015-12-25 11:50:30,Lunch Ride,Ride,False,19.1475,,Ride
+2015-12-26 10:05:35,Morning Ride,Ride,False,38.3456,,Ride
+2015-12-27 11:26:11,Turbo Alpine Classic 07 - ColduGalibierTT,VirtualRide,False,17.5329,,VirtualRide
+2015-12-28 11:21:04,Ride over for lunch,Ride,False,44.1723,,Ride
+2015-12-31 15:22:28,Afternoon Run,Run,False,6.2823,,Run
+2016-01-01 09:22:44,Dynamo Windsor - back with Webbo,Ride,False,102.471,,Ride
+2016-01-02 11:17:47,Lunch Run,Run,False,6.6153,,Run
+2016-01-07 07:41:55,Morning Ride,Ride,False,11.4048,,Ride
+2016-01-07 18:47:43,Turbo 13 @ 280,VirtualRide,True,35.5975,,Trainer
+2016-01-09 08:30:01,G3 Race 1 - 18th,Run,False,10.789,1,Run
+2016-01-10 10:04:03,Walton 2 up,Ride,False,49.0125,,Ride
+2016-01-11 08:01:34,Morning Ride,Ride,False,11.439200000000001,,Ride
+2016-01-11 18:20:09,Evening Ride,Ride,False,11.2905,,Ride
+2016-01-12 07:13:13,Morning Ride,Ride,False,11.010200000000001,,Ride
+2016-01-12 19:34:13,Turbo 11 @ 330,VirtualRide,True,37.581,,Trainer
+2016-01-14 19:26:40,Evening Run,Run,False,6.5857,,Run
+2016-01-16 08:42:26,Dynamos 1st group,Ride,False,53.534099999999995,10,Ride
+2016-01-17 11:33:43,Richmond Park 12 hills,Run,False,13.6444,0,Run
+2016-01-19 19:51:29,Turbo BRI - 18,VirtualRide,True,29.0478,,Trainer
+2016-01-21 19:49:23,Evening Run,Run,False,6.5648,,Run
+2016-01-23 08:30:00,Dynamos 1st group,Ride,False,53.5,,Ride
+2016-01-24 10:55:58,Morning Ride,Ride,False,61.2843,,Ride
+2016-01-26 19:32:07,Turbo 2x20mins @ 300W,VirtualRide,True,38.9101,,Trainer
+2016-01-28 19:44:24,Evening Run,Run,False,8.1023,,Run
+2016-01-30 14:23:28,Hillingdon E12 - rolled in with bunch,Ride,False,51.7228,11,Race
+2016-01-31 18:11:54,"Dark inside, dark outside",Ride,False,30.8642,,Ride
+2016-02-02 19:34:08,Turbo 11 @ 330,VirtualRide,True,48.529900000000005,,Trainer
+2016-02-04 19:32:48,Walton loop,Ride,False,43.1901,10,Ride
+2016-02-06 10:59:39,MTB 3 up,Ride,False,20.8887,10,Ride
+2016-02-07 08:36:54,Dynamos Windsor,Ride,False,102.675,10,Ride
+2016-02-10 19:43:16,Tour of Fontana,VirtualRide,True,17.7473,,Trainer
+2016-02-13 08:42:30,Dynamos 2nd group,Ride,False,53.5712,10,Ride
+2016-02-14 08:28:37,Dynamos Windsor,Ride,False,95.5471,10,Ride
+2016-02-16 19:25:35,Turbo 11 @ 330,VirtualRide,True,41.295199999999994,,Trainer
+2016-02-18 19:33:44,Evening Run,Run,False,11.7629,0,Run
+2016-02-20 08:34:44,Dynamos 2nd group,Ride,False,53.8083,10,Ride
+2016-02-21 08:21:23,Dynamos short Surrey Hills through and off,Ride,False,97.50410000000001,,Ride
+2016-02-23 19:30:00,Night Orienteering - route too embarrassing to upload,Ride,False,10.0,,Ride
+2016-02-25 19:42:01,Turbo 2x20mins @ 300W,VirtualRide,True,36.8494,,Trainer
+2016-02-27 08:37:12,Dynamos 2nd group,Ride,False,53.630900000000004,10,Ride
+2016-02-28 11:26:58,Evil new wheels,Ride,False,39.8095,10,Ride
+2016-03-01 19:28:16,Nightingale x12,Ride,False,29.2838,10,Ride
+2016-03-03 19:57:46,Turbo easy Velodrome,VirtualRide,True,23.1232,,Trainer
+2016-03-05 13:34:52,Dunsfold 2/3 race - punctured on lap 8,Ride,False,77.4587,11,Race
+2016-03-06 09:44:59,MTB Grand Onion Canal with Jamie,Ride,False,34.2949,,Ride
+2016-03-08 19:46:52,Turbo 2x20 under/over,VirtualRide,True,41.2902,,Trainer
+2016-03-10 19:45:46,Nightingale x12,Ride,False,29.5348,10,Ride
+2016-03-12 09:53:51,Morning Ride,Ride,False,23.9106,,Ride
+2016-03-13 13:29:19,Milland Hill 2/3 Dropped - not my day!,Ride,False,50.3897,11,Race
+2016-03-13 15:20:30,Post race cruise,Ride,False,15.0114,10,Ride
+2016-03-18 08:58:43,"Cervinia Zermatt Day 1: 10,000m vertical",AlpineSki,False,104.236,,AlpineSki
+2016-03-19 08:44:27,"Cervinia Zermatt Day 2: 12,000 vertical, 100km/h",AlpineSki,False,111.263,,AlpineSki
+2016-03-20 08:55:48,Cervinia Zermatt Day 3: New max speed,AlpineSki,False,115.561,,AlpineSki
+2016-03-21 08:49:18,Zermatt Cervinia Day 4: Bump & Jump,AlpineSki,False,106.894,,AlpineSki
+2016-03-22 09:04:06,"Cervinia Zermatt Day 5: Surf, ski & scoot",AlpineSki,False,95.3599,,AlpineSki
+2016-03-25 09:18:27,Surrey Hills solo,Ride,False,125.39,10,Ride
+2016-03-26 08:15:05,Dynamos - nasty slide Charlie,Ride,False,53.5766,10,Ride
+2016-03-27 14:24:12,Hike - Marcus navigation - boots died,Ride,False,21.4191,10,Ride
+2016-03-28 10:52:25,Cruise down to Sigma,Ride,False,29.124,10,Ride
+2016-03-29 19:37:06,Turbo Ventoux 2008 - Ventoux descent 31km,VirtualRide,False,30.908900000000003,,VirtualRide
+2016-03-31 19:08:13,Evening Ride,Ride,False,29.4314,,Ride
+2016-04-02 12:07:54,London Dynamo 2/3 race - well up in the bunch,Ride,False,56.3232,11,Race
+2016-04-03 19:32:42,Evening Ride,Ride,False,0.0,,Ride
+2016-04-04 10:31:13,Mallorca - Down south and back through the mountains,Ride,False,168.418,10,Ride
+2016-04-05 10:06:26,Mallorca - Hike down to a beach,Hike,False,3.7934,,Hike
+2016-04-05 13:03:56,Mallorca - Petra coffee and cake,Ride,False,92.89389999999999,10,Ride
+2016-04-06 09:10:17,Mallorca - Around Inca - WIIINDYYY,Ride,False,106.174,10,Ride
+2016-04-07 10:30:00,Gone kitesurfing,Kitesurf,False,0.0,,Kitesurf
+2016-04-07 13:39:23,Mallorca - Lluc & lighthouse,Ride,False,101.618,10,Ride
+2016-04-08 08:43:10,Mallorca - Sa Calobra abandoned due to hypothermia!,Ride,False,69.2744,,Ride
+2016-04-09 14:44:30,Afternoon Ride,Ride,False,20.2633,,Ride
+2016-04-10 09:25:13,Surrey Hills Two Up,Ride,False,107.116,10,Ride
+2016-04-13 07:20:32,Morning Ride,Ride,False,11.1697,,Ride
+2016-04-13 17:13:53,Afternoon Ride,Ride,False,23.0229,,Ride
+2016-04-13 18:47:06,Hillingdon Masters - 2nd in age group,Ride,False,38.2285,11,Race
+2016-04-13 19:57:31,Evening Ride,Ride,False,15.5722,,Ride
+2016-04-16 17:20:00,Longcross 2/3,Ride,False,53.0,11,Race
+2016-04-17 08:28:01,Surrey Hills small Dynamo group,Ride,False,107.783,,Ride
+2016-04-19 19:23:12,Richmond Park laps on P3,Ride,False,29.6555,,Ride
+2016-04-21 19:37:12,Isabella jog,Run,False,6.182300000000001,,Run
+2016-04-23 08:15:03,Dynamos 2nd group,Ride,False,53.4944,10,Ride
+2016-04-24 11:07:25,Lunch Ride,Ride,False,9.750399999999999,,Ride
+2016-04-24 11:51:44,Lunch Ride,Ride,False,50.4431,,Ride
+2016-04-27 07:30:39,Morning Ride,Ride,False,10.8589,,Ride
+2016-04-27 17:10:19,Afternoon Ride,Ride,False,21.4895,,Ride
+2016-04-27 18:48:19,Hillingdon Masters - 3rd in age group,Ride,False,45.7914,11,Race
+2016-04-27 19:56:40,Evening Ride,Ride,False,16.173299999999998,,Ride
+2016-04-28 19:48:12,Isabella jog gates locked,Run,False,6.7619,0,Run
+2016-04-30 08:17:23,Dynamos 3rd group,Ride,False,53.4223,10,Ride
+2016-05-01 08:30:13,Surrey Hills loopy,Ride,False,120.827,10,Ride
+2016-05-02 18:28:53,Barnes jog,Run,False,7.374,0,Run
+2016-05-03 19:36:06,Nightingale x8,Ride,False,29.4629,10,Ride
+2016-05-04 19:08:47,Sunny Evening Ride with Nicky,Ride,False,19.5373,10,Ride
+2016-05-05 19:03:04,Richmond Park 3 laps,Ride,False,40.2948,,Ride
+2016-05-06 18:52:46,Evening Ride with Nicky again!,Ride,False,20.244,10,Ride
+2016-05-07 08:18:33,Morning Ride,Ride,False,53.5451,,Ride
+2016-05-07 20:10:00,Manchester Velodrome,Ride,False,35.0,,Ride
+2016-05-08 15:28:03,Afternoon Ride,Ride,False,28.9155,,Ride
+2016-05-08 18:35:28,Evening Ride,Ride,False,19.3885,,Ride
+2016-05-09 19:33:16,Isabella jog ,Run,False,7.812,0,Run
+2016-05-11 07:28:05,Morning Ride,Ride,False,11.5647,,Ride
+2016-05-11 17:13:59,Afternoon Ride,Ride,False,21.299799999999998,,Ride
+2016-05-11 18:49:01,"Hillingdon Vets 1st over 50, 4th over the line",Ride,False,49.1481,11,Race
+2016-05-11 20:16:16,Evening Ride,Ride,False,15.795200000000001,,Ride
+2016-05-12 19:05:42,Chertsey reverse on P3,Ride,False,59.709900000000005,,Ride
+2016-05-14 07:40:31,Dynamos 1st group,Ride,False,53.5041,10,Ride
+2016-05-15 08:25:57,Dynamos Windsor Fast,Ride,False,101.035,10,Ride
+2016-05-17 19:18:32,Richmond Park lactate x2,Ride,False,38.8092,10,Ride
+2016-05-19 19:14:59,Two lap effort ,Ride,False,33.8557,10,Ride
+2016-05-21 07:42:20,In-Debney-fied,Ride,False,53.5878,,Ride
+2016-05-22 08:31:12,Short Surrey Loop,Ride,False,74.3627,,Ride
+2016-05-24 15:51:07,Snakes in the road!,Ride,False,55.4485,10,Ride
+2016-05-25 17:25:17,Afternoon Ride,Ride,False,15.636299999999999,,Ride
+2016-05-25 18:57:17,Hillingdon vets- unclear laps to go,Ride,False,45.4877,11,Race
+2016-05-25 20:14:01,Evening Ride,Ride,False,15.6925,,Ride
+2016-05-26 16:16:29,Afternoon Ride with Nicky,Ride,False,19.4445,,Ride
+2016-05-27 16:01:04,Swans and cygnets,Ride,False,28.7718,10,Ride
+2016-05-28 13:24:50,National Masters 2016,Ride,False,104.299,11,Race
+2016-05-29 15:07:23,Chobham Cobham,Ride,False,84.74210000000001,10,Ride
+2016-05-30 11:14:34,Short Surrey ride with Nicky,Ride,False,33.4832,,Ride
+2016-05-31 19:30:00,Climbing wall,Workout,False,0.0,,Workout
+2016-06-01 19:04:35,Dunsfold vets >50 win,Ride,False,48.036199999999994,11,Race
+2016-06-02 10:47:57,MTB with Jamie,Ride,False,21.8801,10,Ride
+2016-06-03 10:30:58,Morning Ride,Ride,False,29.1673,,Ride
+2016-06-04 15:47:12,Nocturnal spectating,Ride,False,24.5973,10,Ride
+2016-06-05 10:07:11,SE Regional Champs - made top 20,Ride,False,141.704,11,Race
+2016-06-06 08:20:59,Post race spin,Ride,False,39.1974,10,Ride
+2016-06-07 13:52:59,New chain not quite right yet,Ride,False,26.1483,10,Ride
+2016-06-08 19:02:40,Dunsfold vets,Ride,False,49.738099999999996,11,Race
+2016-06-09 15:12:54,Afternoon Ride,Ride,False,22.7122,,Ride
+2016-06-09 17:38:09,Surrey solo ,Ride,False,107.38,10,Ride
+2016-06-10 12:35:08,Short spin,Ride,False,28.841,10,Ride
+2016-06-12 09:32:36,Surrey league failure,Ride,False,23.8475,11,Race
+2016-06-13 11:05:56,Lunch Ride,Ride,False,28.9228,,Ride
+2016-06-14 13:50:00,Gone kitesurfing,Kitesurf,False,0.0,,Kitesurf
+2016-06-15 19:02:45,Dunsfold vets 3rd,Ride,False,48.5747,11,Race
+2016-06-16 11:27:38,For goodness brakes,Ride,False,50.4223,10,Ride
+2016-06-17 14:06:26,MTB New Forest,Ride,False,23.6903,10,Ride
+2016-06-18 17:40:49,Around the island out to sea,Ride,False,21.9449,10,Ride
+2016-06-19 10:00:00,MTB track on island,Ride,False,16.0,,Ride
+2016-06-19 15:00:23,Kitesurfing Armada World Record,Kitesurf,False,0.0,,Kitesurf
+2016-06-20 16:27:39,Barnes jog,Run,False,2.5263,,Run
+2016-06-21 10:27:48,Morning Ride,Ride,False,39.605599999999995,,Ride
+2016-06-22 17:27:17,Afternoon Ride,Ride,False,15.676200000000001,,Ride
+2016-06-22 19:01:19,Hillingdon vets >50 win!,Ride,False,50.3416,11,Race
+2016-06-22 20:35:33,Evening Ride,Ride,False,15.7921,,Ride
+2016-06-23 19:12:19,Evening Ride,Ride,False,19.563200000000002,,Ride
+2016-06-24 17:56:07,Evening Surrey Ride- flood dodging,Ride,False,88.9147,,Ride
+2016-06-25 17:17:15,Afternoon Ride,Ride,False,18.068900000000003,,Ride
+2016-06-26 15:31:31,Letchworth Masters street crit - 2nd,Ride,False,18.022,11,Race
+2016-06-26 17:32:07,"Letchworth ""champions race"" - pummelled by junior national champ",Ride,False,8.8847,11,Race
+2016-06-27 16:32:16,Afternoon Ride with Jamie,Ride,False,44.0185,10,Ride
+2016-06-28 09:23:52,Morning Ride with Nicky/pre-race spin,Ride,False,30.0325,,Ride
+2016-06-29 19:03:09,Dunsfold vets 2nd - blocked when the break went,Ride,False,38.549099999999996,11,Race
+2016-06-30 12:10:26,Welsh hills and lakes ,Ride,False,100.829,10,Ride
+2016-07-01 09:32:16,Welsh Devils and Valleys,Ride,False,100.419,10,Ride
+2016-07-02 11:10:45,Pre-race spin,Ride,False,17.8697,,Ride
+2016-07-03 15:15:39,Redbourn Masters - 2nd ,Ride,False,9.313,11,Race
+2016-07-03 17:03:57,Redbourn 2/3 crit - 10th,Ride,False,21.5063,11,Race
+2016-07-05 18:46:11,Evening Ride,Ride,False,33.9499,,Ride
+2016-07-06 17:26:00,Afternoon Ride,Ride,False,15.6164,,Ride
+2016-07-06 19:01:27,Hillingdon Vets in top 5 over 50,Ride,False,49.127300000000005,11,Race
+2016-07-06 20:32:43,Evening Ride,Ride,False,15.626700000000001,,Ride
+2016-07-07 10:51:20,Snake in Richmond Park,Ride,False,80.19510000000001,10,Ride
+2016-07-08 16:00:00,Gone kitesurfing,Kitesurf,False,5.0,,Kitesurf
+2016-07-09 14:37:12,Pre-race spin,Ride,False,24.3045,10,Ride
+2016-07-10 14:54:08,Berkhamsted 2/3,Ride,False,27.7455,11,Race
+2016-07-10 16:41:19,Berkhamsted Masters,Ride,False,21.8763,11,Race
+2016-07-11 17:40:00,Gone kitesurfing,Kitesurf,False,20.0,,Kitesurf
+2016-07-12 08:38:53,Morning Ride,Ride,False,28.853,,Ride
+2016-07-13 19:01:45,Dunsfold vets win >50,Ride,False,47.966,11,Race
+2016-07-14 09:32:09,Short Surrey Hills with Marcus,Ride,False,83.94069999999999,,Ride
+2016-07-15 09:29:43,Morning Ride,Ride,False,24.486900000000002,,Ride
+2016-07-16 13:12:00,LVRC National Crits,Ride,False,36.4107,11,Race
+2016-07-17 11:33:32,Lunch Ride,Ride,False,29.2318,,Ride
+2016-07-18 09:00:35,Short Surrey Ride with Paul and Chris,Ride,False,100.015,,Ride
+2016-07-20 17:16:16,Afternoon Ride,Ride,False,15.4604,,Ride
+2016-07-20 19:02:05,"Hillingdon Vets 1st over 50, 2th over the line",Ride,False,48.7102,,Ride
+2016-07-20 20:33:59,Evening Ride,Ride,False,15.5334,,Ride
+2016-07-21 12:18:31,MTB Bracknell,Ride,False,21.971400000000003,10,Ride
+2016-07-22 18:29:27,Evening Ride,Ride,False,30.138099999999998,,Ride
+2016-07-23 07:44:01,Dynamos ,Ride,False,53.5369,10,Ride
+2016-07-24 09:56:28,Morning Ride,Ride,False,85.2501,,Ride
+2016-07-26 17:00:00,Kitesurfing - Hortin - no wind,Kitesurf,False,2.0,,Kitesurf
+2016-07-27 22:20:10,Kitesurf Lachanau - no wind,Kitesurf,False,5.5756000000000006,,Kitesurf
+2016-07-28 12:00:00,Surfing - Hortin,Surfing,False,1.0,,Surfing
+2016-07-29 14:51:23,Afternoon Ride,Ride,False,23.0375,,Ride
+2016-07-30 14:34:42,BC national crit champs ,Ride,False,46.8694,11,Race
+2016-08-01 08:29:00,Morning Ride,Ride,False,28.7095,,Ride
+2016-08-02 09:31:47,Morning Ride,Ride,False,5.4678,,Ride
+2016-08-03 17:27:52,Afternoon Ride,Ride,False,15.608,,Ride
+2016-08-03 18:59:40,Hillingdon Vets 4th,Ride,False,50.5073,11,Race
+2016-08-03 20:30:58,Evening Ride,Ride,False,15.7708,,Ride
+2016-08-04 15:42:40,Gone kitesurfing ,Kitesurf,False,20.0,,Kitesurf
+2016-08-05 11:09:30,Windsor ride solo,Ride,False,100.953,10,Ride
+2016-08-06 07:47:37,Morning Ride,Ride,False,53.5836,,Ride
+2016-08-07 15:02:35,Afternoon Ride,Ride,False,27.7261,,Ride
+2016-08-08 15:55:49,Afternoon Ride,Ride,False,25.9127,,Ride
+2016-08-10 13:35:15,Sellaronda - off-road detour due to Passo Gardena closure,Ride,False,51.435,10,Ride
+2016-08-11 09:32:24,Passo Giau - Passo Valparolo,Ride,False,88.4581,10,Ride
+2016-08-12 11:45:27,Tre Cime,Ride,False,42.869,10,Ride
+2016-08-13 09:24:04,Sellaronda - other way plus Falzarego,Ride,False,80.80030000000001,10,Ride
+2016-08-13 15:48:18,Afternoon Hike,Hike,False,3.9805,,Hike
+2016-08-14 09:40:50,Passo Valparolo,Ride,False,56.3367,10,Ride
+2016-08-15 11:20:30,Grappa Valley Recovery Ride,Ride,False,37.327400000000004,10,Ride
+2016-08-16 08:55:24,Monte Grappa ascent via ridge,Ride,False,83.4488,10,Ride
+2016-08-17 08:51:17,Grappa effort,Ride,False,49.6752,10,Ride
+2016-08-18 08:57:19,Grappa valley,Ride,False,33.067,,Ride
+2016-08-20 07:44:30,Morning Ride,Ride,False,22.5259,,Ride
+2016-08-21 13:29:23,Sharpthorne 2/3 - 18th,Ride,False,129.372,11,Race
+2016-08-22 16:57:47,Gone kitesurfing,Kitesurf,False,19.3684,,Kitesurf
+2016-08-23 09:16:17,Morning Ride,Ride,False,46.2014,,Ride
+2016-08-24 17:07:30,Afternoon Ride,Ride,False,15.5656,,Ride
+2016-08-24 18:46:08,Hillingdon vets 4th - thunderstorm ,Ride,False,42.9959,11,Race
+2016-08-24 20:07:38,Evening Ride,Ride,False,15.829799999999999,,Ride
+2016-08-25 10:13:29,Morning Ride,Ride,False,28.7984,,Ride
+2016-08-27 13:29:14,SL Kermesse - blocked by a crash on 1st lap ,Ride,False,56.311099999999996,11,Race
+2016-08-28 13:37:03,SL Seale 2/3,Ride,False,97.5569,11,Race
+2016-08-29 15:27:15,Afternoon Ride with Nicky,Ride,False,19.4076,,Ride
+2016-08-30 17:01:27,MTB offroad 3-up,Ride,False,28.9354,,Ride
+2016-08-31 18:46:16,Hillingdon Vets - out of position for the sprint,Ride,False,39.8097,11,Race
+2016-09-01 13:47:24,Surrey Hills solo - long route,Ride,False,117.042,10,Ride
+2016-09-02 09:21:08,Morning Ride,Ride,False,25.509700000000002,,Ride
+2016-09-03 10:24:49,Morning Ride,Ride,False,27.5733,,Ride
+2016-09-04 15:05:37,Club Champs - lead out for Jamie,Ride,False,50.3985,11,Race
+2016-09-05 17:09:45,Isabella jog,Run,False,7.3679,,Run
+2016-09-06 10:12:22,Quick lap on P3 - 15:59,Ride,False,29.587400000000002,,Ride
+2016-09-07 18:16:46,Evening Ride,Ride,False,36.712199999999996,,Ride
+2016-09-08 17:30:15,Awesome kitesurfing,Kitesurf,False,36.8853,,Kitesurf
+2016-09-09 09:02:58,Morning Ride,Ride,False,23.044900000000002,,Ride
+2016-09-10 16:58:43,Afternoon Ride with Nicky,Ride,False,22.230900000000002,,Ride
+2016-09-11 18:00:57,MTB to summit opposite,Ride,False,21.302799999999998,,Ride
+2016-09-13 08:24:02,Morning MTB to beaches,Ride,False,26.1472,,Ride
+2016-09-14 08:17:18,Fornells rocky run loop,Run,False,5.6875,0,Run
+2016-09-14 17:36:29,MTB Short Loop Ses Salines,Ride,False,20.2793,,Ride
+2016-09-15 08:21:23,MTB Ride To Beach,Ride,False,17.8188,,Ride
+2016-09-16 07:49:45,Sant Tomas and back,Ride,False,36.5305,,Ride
+2016-09-17 11:01:09,Lunch Ride,Ride,False,22.8736,,Ride
+2016-09-18 15:15:24,Afternoon Ride with Marcus,Ride,False,45.1526,,Ride
+2016-09-19 18:03:49,Evening Ride,Ride,False,28.4997,,Ride
+2016-09-20 16:24:21,Afternoon Ride,Ride,False,57.418699999999994,,Ride
+2016-09-21 13:01:10,Fab Blast MTB with Marcus,Ride,False,35.775400000000005,,Ride
+2016-09-22 18:12:57,Climbing peaks 1,Ride,False,16.4336,,Ride
+2016-09-22 18:50:51,Climbing peaks 2,Ride,False,17.9061,,Ride
+2016-09-23 09:34:57,Morning Ride,Ride,False,22.2559,,Ride
+2016-09-25 08:30:00,Nefyn jog,Run,False,10.0,,Run
+2016-09-25 12:00:00,Kitesurfing - Aberech Sands - F4,Kitesurf,False,20.0,,Kitesurf
+2016-09-27 09:55:47,Missed that left turn again,Ride,False,122.183,,Ride
+2016-09-28 18:54:22,Kitesurfing Hayling Island,Kitesurf,False,54.7061,,Kitesurf
+2016-09-29 16:05:34,Afternoon Ride,Ride,False,44.561,,Ride
+2016-09-30 09:45:46,Morning Ride,Ride,False,27.452099999999998,,Ride
+2016-10-01 17:04:23,Mallorca Masters - check out the course,Ride,False,20.648400000000002,,Ride
+2016-10-02 09:01:46,Mallorca European Masters Race Cup - 16th,Ride,False,61.3371,11,Race
+2016-10-03 11:11:38,Mallorca Masters - pre race ride around the course,Ride,False,31.534599999999998,,Ride
+2016-10-04 09:13:57,Vuelta a Mallorca Masters - Stage 1,Ride,False,62.2614,11,Race
+2016-10-05 09:09:20,Vuelta a Mallorca Masters - Stage 2,Ride,False,70.46589999999999,11,Race
+2016-10-05 17:03:51,Mallorca - TT recce,Ride,False,13.9926,,Ride
+2016-10-06 09:10:24,Morning Ride,Ride,False,13.023100000000001,,Ride
+2016-10-06 10:27:44,Vuelta a Mallorca Masters - Stage 3 TT,Ride,False,7.077,11,Race
+2016-10-07 09:06:14,Vuelta a Mallorca Masters - Stage 4,Ride,False,62.0388,11,Race
+2016-10-08 17:44:17,"Out to the point, as far as military zone",Ride,False,27.931,10,Ride
+2016-10-09 09:30:46,Sa Calobra,Ride,False,104.564,10,Ride
+2016-10-10 11:54:14,Pollensa Potter with Nicky,Ride,False,31.853900000000003,,Ride
+2016-10-11 09:48:56,A long ride for Nicky,Ride,False,47.6373,,Ride
+2016-10-12 09:46:00,To point with Nicky,Ride,False,30.1661,,Ride
+2016-10-14 16:45:05,Afternoon Ride,Ride,False,28.6157,,Ride
+2016-10-15 08:18:12,Morning Ride,Ride,False,34.200900000000004,,Ride
+2016-10-16 11:59:59,Lunch Ride,Ride,False,11.3098,,Ride
+2016-10-17 10:23:32,Morning Ride with Kurt,Ride,False,19.9575,,Ride
+2016-10-17 16:36:00,Afternoon Ride,Ride,False,30.6925,,Ride
+2016-10-18 16:03:35,Afternoon Ride,Ride,False,50.117599999999996,,Ride
+2016-10-19 12:43:08,Westway climbing,RockClimbing,False,0.0,,RockClimbing
+2016-10-20 16:07:45,Afternoon Ride,Ride,False,28.859299999999998,,Ride
+2016-10-21 10:54:56,Morning Ride,Ride,False,28.866400000000002,,Ride
+2016-10-22 07:50:12,Dynamos 2nd group - getting cold now,Ride,False,52.609300000000005,,Ride
+2016-10-23 11:00:00,Kitesurfing - Greatstone F4,Kitesurf,False,30.0,,Kitesurf
+2016-10-25 11:01:17,Lunch Ride,Ride,False,28.8362,,Ride
+2016-10-26 12:38:49,Lunch Ride,Ride,False,30.1339,,Ride
+2016-10-27 08:31:42,Dynamo Thursday Morning Ride,Ride,False,105.466,,Ride
+2016-10-28 11:44:28,Lunch Ride,Ride,False,30.6921,,Ride
+2016-10-29 10:10:29,Pre race spin,Ride,False,20.7052,10,Ride
+2016-10-30 11:02:13,Surrey League Ottershaw,Ride,False,85.1718,11,Race
+2016-10-30 13:18:54,Roll back to HQ,Ride,False,7.7106,,Ride
+2016-10-31 11:51:36,Sunny autumn ride,Ride,False,65.84039999999999,10,Ride
+2016-11-01 15:54:55,Richmond Park run,Run,False,11.5618,0,Run
+2016-11-02 09:20:20,Morning Ride,Ride,False,28.8433,,Ride
+2016-11-03 08:46:35,Dynamo Thursday Morning Ride,Ride,False,105.331,,Ride
+2016-11-04 22:00:00,Westway climbing,RockClimbing,False,0.0,,RockClimbing
+2016-11-05 07:49:11,Morning Ride,Ride,False,53.54,,Ride
+2016-11-06 08:28:23,LD Team Training,Ride,False,120.924,,Ride
+2016-11-07 11:21:32,Lunch Ride,Ride,False,27.3995,,Ride
+2016-11-08 14:56:41,Bad back pain,Ride,False,16.1701,,Ride
+2016-11-11 13:30:00,Swim aaagh! ,Swim,False,1.0,,Swim
+2016-11-13 11:08:56,A walk in the park,Hike,False,7.3168999999999995,,Hike
+2016-11-14 10:30:00,Urgh Swimming again,Swim,False,1.0,,Swim
+2016-11-15 08:57:10,Gentle Test Ride,Ride,False,22.737099999999998,,Ride
+2016-11-15 09:07:02,LD Test Route,Ride,False,12.931700000000001,,Ride
+2016-11-16 09:35:04,Morning Ride,Ride,False,32.5676,,Ride
+2016-11-17 08:31:56,London Dynamo Thursday Ride,Ride,False,105.3,10,Ride
+2016-11-18 14:04:50,Afternoon Ride,Ride,False,19.464599999999997,,Ride
+2016-11-19 09:10:15,Short Surrey with Jamie - back for the weekend,Ride,False,74.6786,,Ride
+2016-11-21 08:35:21,First turbo of the winter,Ride,True,0.0,,Trainer
+2016-11-22 18:46:00,Westway climbing,RockClimbing,False,0.0,,RockClimbing
+2016-11-23 09:42:47,Morning Ride,Ride,False,39.557,,Ride
+2016-11-24 08:43:53,LD Thursday Morning Ride,Ride,False,74.1462,10,Ride
+2016-11-24 12:42:56,Missing 30km from today's ride,Ride,False,30.0,10,Ride
+2016-11-25 10:11:07,Morning Ride,Ride,False,23.6542,,Ride
+2016-11-26 08:39:00,Dynamos 2nd group,Ride,False,54.1144,,Ride
+2016-11-27 08:31:11,LD Race Team Ride,Ride,False,142.666,,Ride
+2016-11-28 11:44:53,Lunch Ride,Ride,False,19.5725,,Ride
+2016-11-29 09:53:28,Park Run,Run,False,9.0709,,Run
+2016-11-30 15:11:24,Minus 2 degrees,Ride,False,28.9632,,Ride
+2016-12-01 08:48:17,LD Thursday Ride,Ride,False,105.157,,Ride
+2016-12-02 19:48:28,Evening Jog,Run,False,5.9556000000000004,,Run
+2016-12-03 08:43:07,LD Saturday Morning Ride,Ride,False,53.5174,,Ride
+2016-12-04 08:29:55,Just a Walton loop - not feeling great,Ride,False,47.4003,,Ride
+2016-12-20 11:49:12,Lunch Ride,Ride,False,30.219,,Ride
+2016-12-22 08:45:56,Thursday morning ride,Ride,False,107.971,,Ride
+2016-12-24 08:34:01,Morning Ride,Ride,False,32.062,,Ride
+2016-12-25 09:53:10,Christmas Crash on Cancellara Corner - no serious damage,Ride,False,30.7495,,Ride
+2016-12-26 10:26:28,Boxing Day MTB,Ride,False,22.0321,,Ride
+2016-12-27 10:25:50,Morning Ride,Ride,False,33.6084,,Ride
+2016-12-28 12:08:57,Jog - tweaked right calf ,Run,False,6.6216,0,Run
+2016-12-29 09:32:58,MTB,Ride,False,28.6618,10,Ride
+2016-12-30 10:02:51,Morning Ride,Ride,False,28.7225,,Ride
+2016-12-31 08:39:29,LD Saturday Morning Ride,Ride,False,53.475199999999994,10,Ride
+2017-01-01 09:31:55,Morning MTB,Ride,False,25.0549,,Ride
+2017-01-02 09:15:43,Walton Loop with Jamie,Ride,False,43.3913,,Ride
+2017-01-03 10:39:54,MTB with Marcus,Ride,False,34.4118,,Ride
+2017-01-04 13:14:47,Afternoon Ride,Ride,True,0.0,,Trainer
+2017-01-05 08:38:06,LD Thursday morning ride,Ride,False,102.986,10,Ride
+2017-01-06 14:17:00,Westway climbing ,RockClimbing,False,0.0,,RockClimbing
+2017-01-07 08:40:09,LD Saturday Morning Ride,Ride,False,53.503699999999995,,Ride
+2017-01-08 08:25:32,Morning Ride,Ride,False,52.1356,,Ride
+2017-01-09 15:48:03,Spinning,Ride,True,0.0034,,Trainer
+2017-01-10 14:33:23,Halfway backwards,Ride,False,65.2665,,Ride
+2017-01-11 11:17:15,Lunch Ride,Run,False,6.514,0,Run
+2017-01-12 08:36:57,LD Thursday Morning Ride,Ride,False,105.414,,Ride
+2017-01-13 16:20:00,Westway climbing,RockClimbing,False,0.0,,RockClimbing
+2017-01-14 17:42:56,Turbo - Ventoux 2008 - Sault - Bedoin,VirtualRide,False,39.396,,VirtualRide
+2017-01-15 14:37:11,Turbo - Milan - SanRemo - FinaleLigure-Imperia,VirtualRide,False,48.5945,,VirtualRide
+2017-01-16 15:16:25,Testing,Ride,False,34.0117,,Ride
+2017-01-17 08:56:09,Puncture city - thanks LD for help,Ride,False,104.322,,Ride
+2017-01-18 13:12:20,Surrey Hills - icy,Ride,False,88.3492,,Ride
+2017-01-19 12:06:50,Short recovery,Ride,False,30.1981,,Ride
+2017-01-20 15:32:54,Afternoon ride,Ride,False,29.3891,,Ride
+2017-01-21 08:41:26,LD Saturday Morning Ride,Ride,False,63.844699999999996,,Ride
+2017-01-22 08:31:44,Sub zero,Ride,False,62.9958,,Ride
+2017-01-23 15:00:21,Drills,Ride,False,29.8022,10,Ride
+2017-01-24 08:53:27,LD Tuesday Morning Ride,Ride,False,100.097,10,Ride
+2017-01-25 16:00:42,Turbo 1 hr,VirtualRide,True,23.5532,,Trainer
+2017-01-26 09:31:43,Morning Ride,Ride,False,17.9312,,Ride
+2017-01-27 17:50:00,Ski,AlpineSki,False,60.0,,AlpineSki
+2017-01-28 10:00:00,"Skiing with Kurt, Manu and Alexa",AlpineSki,False,60.0,,AlpineSki
+2017-01-29 10:00:00,Skiing,AlpineSki,False,80.0,,AlpineSki
+2017-01-30 09:06:59,Skiing until some idiot took my skis,AlpineSki,False,68.5661,,AlpineSki
+2017-01-31 10:00:00,Snowboarding,Snowboard,False,40.0,,Snowboard
+2017-02-01 09:27:24,Skinning up with Kurt,BackcountrySki,False,2.9409,,BackcountrySki
+2017-02-02 08:59:17,"Wet Windsor - group out, solo back",Ride,False,100.751,,Ride
+2017-02-04 12:49:14,Lunch Ride,Ride,False,15.573,,Ride
+2017-02-04 14:28:43,Hillingdon E12 - knocked off,Ride,False,35.657,11,Race
+2017-02-11 11:42:00,Deer hunting ,Hike,False,5.0,,Hike
+2017-02-12 10:50:17,Turbo Ventoux 2008 - Gorges de la Nesque Descent,VirtualRide,False,26.253,,VirtualRide
+2017-02-13 09:58:49,Turbo virtual Chertsey ride,VirtualRide,False,63.318599999999996,,VirtualRide
+2017-02-14 15:20:32,Two painful laps,Ride,False,28.756700000000002,,Ride
+2017-02-15 09:33:47,Turbo Sa Roca,VirtualRide,False,25.3579,,VirtualRide
+2017-02-16 14:55:50,Short Ride with Nicky,Ride,False,16.5834,,Ride
+2017-02-18 09:19:11,"Recovery is long and slow, but 3 laps today",Ride,False,39.4284,,Ride
+2017-02-19 08:28:51,Longcross loop,Ride,False,78.6284,,Ride
+2017-02-20 12:26:46,Lunch Ride,Ride,False,28.8137,,Ride
+2017-02-21 19:37:28,Turbo Sant Tomas,VirtualRide,False,35.3849,,VirtualRide
+2017-02-23 19:50:03,Turbo Mallorca Coastal Ride,VirtualRide,False,28.0505,,VirtualRide
+2017-02-24 09:25:44,Morning Ride,Ride,False,28.9707,,Ride
+2017-02-25 08:37:03,Morning Ride,Ride,False,53.5881,,Ride
+2017-02-26 11:01:20,Turbo Ventoux 2008 - Malaucéne-Montbrun,VirtualRide,False,34.1929,,VirtualRide
+2017-02-27 17:58:25,Turbo Ventoux 2008 - Ventoux descent 31km,VirtualRide,False,30.935200000000002,,VirtualRide
+2017-02-28 08:56:39,Windsor Ride,Ride,False,107.225,,Ride
+2017-03-02 08:28:27,LD Thursday morning ride,Ride,False,102.727,,Ride
+2017-03-03 17:27:34,Turbo Ventoux 2008 - Ventoux descent 31km,VirtualRide,False,30.9696,,VirtualRide
+2017-03-04 08:43:14,Morning Ride,Ride,False,41.8988,,Ride
+2017-03-05 15:38:59,Afternoon Ride,Ride,False,23.271099999999997,,Ride
+2017-03-07 18:37:22,Turbo Mallorca Stage 4,VirtualRide,False,62.0316,,VirtualRide
+2017-03-08 16:08:24,Afternoon Ride,Ride,False,28.713900000000002,,Ride
+2017-03-09 08:48:54,LD Thursday Morning Ride,Ride,False,105.386,,Ride
+2017-03-10 09:13:47,Turbo Forbidden Mountains Tour,VirtualRide,True,13.859399999999999,,Trainer
+2017-03-10 10:04:16,Turbo Velodrome,VirtualRide,True,6.9373000000000005,,Trainer
+2017-03-11 08:41:19,Morning Ride,Ride,False,51.1263,,Ride
+2017-03-12 08:26:17,Wet in the hills,Ride,False,116.218,,Ride
+2017-03-13 12:45:19,Lunch Ride,Ride,False,18.2525,,Ride
+2017-03-14 08:58:57,"Nice Surrey Hills route, quick home",Ride,False,113.191,,Ride
+2017-03-15 16:35:08,Afternoon Ride,Ride,False,28.7896,,Ride
+2017-03-16 08:53:36,LD Thursday Morning Ride,Ride,False,104.94,,Ride
+2017-03-17 17:10:38,Afternoon ride,Ride,False,29.878400000000003,,Ride
+2017-03-18 07:46:08,LD Saturday Morning Ride,Ride,False,53.866099999999996,,Ride
+2017-03-19 08:23:38,Short Surrey Hills solo,Ride,False,84.33539999999999,,Ride
+2017-03-21 08:58:14,Windsor Ride solo ,Ride,False,103.091,10,Ride
+2017-03-22 14:01:49,Tentative easy jog,Run,False,6.4825,,Run
+2017-03-23 16:07:50,Afternoon Spinning,Ride,False,29.590799999999998,,Ride
+2017-03-24 14:38:05,MTB with Kurt,Ride,False,25.8029,,Ride
+2017-03-25 07:41:40,LD Saturday Morning Ride,Ride,False,63.606,,Ride
+2017-03-26 11:17:52,Lunch Ride,Ride,False,45.6142,,Ride
+2017-03-27 11:52:04,Walton ride sitting in behind Jamie,Ride,True,9.8111,,Trainer
+2017-03-27 12:13:05,Ramp Test,Ride,True,7.3601,,Trainer
+2017-03-27 12:57:40,Lunch Ride,Ride,False,17.8317,,Ride
+2017-03-28 08:52:00,Surrey ride,Ride,False,109.042,,Ride
+2017-03-29 15:50:00,Westway climbing,RockClimbing,False,0.0,,RockClimbing
+2017-03-30 09:48:37,Turbo 2x20mins @ 280W,VirtualRide,True,32.2742,,Trainer
+2017-03-31 15:39:11,Quick spin on P3,Ride,False,28.8357,,Ride
+2017-04-01 10:56:04,Morning Ride,Ride,False,28.8353,,Ride
+2017-04-02 08:24:07,LD Surrey ride - Ozzie's loop,Ride,False,110.27,,Ride
+2017-04-04 14:25:04,Afternoon Ride,Ride,False,27.345599999999997,,Ride
+2017-04-05 08:57:31,Surrey lanes with Jamie ,Ride,False,72.48230000000001,10,Ride
+2017-04-06 08:45:53,Morning Ride,Ride,False,28.833299999999998,,Ride
+2017-04-07 12:30:00,Snowboarding St Anton,Snowboard,False,30.0,,Snowboard
+2017-04-08 08:30:00,Snowboarding St Anton,Snowboard,False,50.0,,Snowboard
+2017-04-09 09:00:00,Snowboarding St Anton,Snowboard,False,50.0,,Snowboard
+2017-04-10 08:30:00,Snowboarding in St Anton,Snowboard,False,40.0,,Snowboard
+2017-04-11 17:20:00,Snowboarding St Anton,Snowboard,False,40.0,,Snowboard
+2017-04-12 08:30:00,Snowboarding St Anton,Snowboard,False,40.0,,Snowboard
+2017-04-13 16:04:50,"Ah, back on the bike again",Ride,False,28.8474,,Ride
+2017-04-14 17:21:30,Afternoon Ride,Ride,False,37.467699999999994,,Ride
+2017-04-15 07:40:19,LD Saturday Morning Ride,Ride,False,53.1426,,Ride
+2017-04-16 09:28:39,Nightingale x 12,Ride,False,35.341,10,Ride
+2017-04-19 11:18:19,Lunch Ride,Ride,False,18.1244,,Ride
+2017-04-20 18:23:45,Evening Ride,Ride,False,22.401799999999998,,Ride
+2017-04-21 14:56:07,Afternoon Run,Run,False,0.111,,Run
+2017-04-22 11:38:42,Lunch Ride,Ride,False,23.8296,,Ride
+2017-04-23 10:08:36,Bletchingley,Ride,False,96.8266,,Ride
+2017-04-24 09:44:57,Short sprints,Ride,False,37.084900000000005,,Ride
+2017-04-25 11:46:36,Lunch Ride,Ride,False,19.3037,,Ride
+2017-04-26 19:00:18,Hillingdon Vets,Ride,False,41.0695,11,Race
+2017-04-27 08:43:46,LD Thursday Morning Ride,Ride,False,105.298,,Ride
+2017-04-28 16:54:30,MTB Afternoon Ride,Ride,False,24.4695,,Ride
+2017-04-30 08:19:22,LD Surrey ride,Ride,False,115.374,,Ride
+2017-05-01 09:53:59,Morning Ride - busy in the park,Ride,False,39.661199999999994,,Ride
+2017-05-03 19:01:17,One lap of Dunsfold before puncturing,Ride,False,27.229400000000002,11,Race
+2017-05-04 19:19:24,Surrey League Handicap - top 15ish,Ride,False,45.7891,11,Race
+2017-05-05 09:24:08,Ciao Giro,Ride,False,84.8113,10,Ride
+2017-05-06 07:41:11,Morning Ride,Ride,False,32.136900000000004,,Ride
+2017-05-07 17:35:34,Afternoon Ride,Ride,False,18.082900000000002,,Ride
+2017-05-08 10:07:26,Windsor Ride solo ,Ride,False,107.411,,Ride
+2017-05-09 15:37:48,A couple of sprints,Ride,False,18.9046,,Ride
+2017-05-10 19:02:37,Dunsfold Vets - sprinted much too early,Ride,False,48.4801,11,Race
+2017-05-11 19:15:52,Handicap series - about 8th,Ride,False,43.273900000000005,11,Race
+2017-05-12 15:07:01,Afternoon Ride,Ride,False,31.6755,,Ride
+2017-05-13 16:19:41,Afternoon Run,Run,False,8.4115,,Run
+2017-05-14 08:28:16,LD Surrey ride,Ride,False,91.17569999999999,,Ride
+2017-05-15 16:09:07,Nightingale x 12,Ride,False,35.493199999999995,,Ride
+2017-05-16 10:00:00,Gone Kitesurfing,Kitesurf,False,20.0,,Kitesurf
+2017-05-17 19:04:03,Dunsfold Vets - about 5th in the pouring rain,Ride,False,38.7051,11,Race
+2017-05-18 14:56:25,Drizzly Ride,Ride,False,34.0222,10,Ride
+2017-05-19 09:38:37,Sprints x 10,Ride,False,45.9475,,Ride
+2017-05-20 07:42:06,LD Saturday Morning Ride,Ride,False,53.637,,Ride
+2017-05-21 08:21:19,LD Surrey Hills reverse,Ride,False,118.356,10,Ride
+2017-05-23 07:57:43,Morning Run,Run,False,0.020300000000000002,,Run
+2017-05-23 11:54:24,Lunch Ride,Ride,False,29.2603,,Ride
+2017-05-24 19:01:25,Dunsfold Vets - got in the break - 2nd >50,Ride,False,48.3955,11,Race
+2017-05-25 08:43:19,LD Thursday Morning Ride,Ride,False,107.259,,Ride
+2017-05-27 09:43:22,Morning Ride,Ride,False,24.9917,,Ride
+2017-05-28 10:04:11,SERRL Ladies Mile - 19th,Ride,False,98.6542,11,Race
+2017-05-28 12:46:55,Lunch Ride,Ride,False,6.6088000000000005,,Ride
+2017-05-29 12:04:08,Lunch Ride,Ride,False,24.213,,Ride
+2017-05-31 19:01:59,Dunsfold Vets - bunch,Ride,False,53.0704,11,Race
+2017-06-01 08:50:47,Henley Hundred - fast 2-up with Joe,Ride,False,161.029,10,Ride
+2017-06-02 10:00:00,White Spider,RockClimbing,False,0.0,,RockClimbing
+2017-06-03 07:40:01,Morning Ride,Ride,False,33.5109,,Ride
+2017-06-04 16:31:33,Kitesurfing F3-4,Kitesurf,False,37.2791,,Kitesurf
+2017-06-05 09:08:27,A few sprints,Ride,False,29.022,,Ride
+2017-06-06 14:00:00,White Spider,RockClimbing,False,0.0,,RockClimbing
+2017-06-07 17:20:58,Afternoon Ride,Ride,False,18.637400000000003,,Ride
+2017-06-07 19:05:16,Hillingdon Vets 3rd,Ride,False,42.5381,11,Race
+2017-06-07 20:28:04,Evening Ride,Ride,False,15.5775,,Ride
+2017-06-08 08:30:26,Morning Ride,Ride,False,104.894,,Ride
+2017-06-09 14:10:00,Mammoth kitesurfing session,Kitesurf,False,40.0,,Kitesurf
+2017-06-10 18:37:48,Lucky it was low tide,Ride,False,24.976,10,Ride
+2017-06-10 23:00:00,Short session until the wind dropped,Kitesurf,False,10.0,,Kitesurf
+2017-06-11 21:43:58,Epic conditions at Hayling,Kitesurf,False,30.6249,,Kitesurf
+2017-06-12 17:03:26,12 efforts,Ride,False,51.2738,,Ride
+2017-06-14 19:01:19,Dunsfold Vets - 5th,Ride,False,48.2659,11,Race
+2017-06-15 18:40:05,Kitesurfing session,Kitesurf,False,49.660199999999996,,Kitesurf
+2017-06-16 10:23:22,Down to Chertsey for 10m TT loop,Ride,False,80.2376,,Ride
+2017-06-17 07:43:58,LD Saturday Morning Ride,Ride,False,53.5249,,Ride
+2017-06-18 05:15:54,LD London Brighton London,Ride,False,185.84,10,Ride
+2017-06-19 16:55:42,Afternoon Ride,Ride,False,26.1911,,Ride
+2017-06-20 18:39:22,Evening Ride,Ride,False,28.036,,Ride
+2017-06-21 17:21:58,Afternoon Ride,Ride,False,15.6664,,Ride
+2017-06-21 19:08:28,Hillingdon Vets - bunch,Ride,False,41.5153,11,Race
+2017-06-21 20:26:52,Evening Ride,Ride,False,15.7226,,Ride
+2017-06-22 08:56:27,LD Thursday Morning Ride,Ride,False,100.826,,Ride
+2017-06-23 19:35:58,Hayling Island F5-F6,Kitesurf,False,32.0561,,Kitesurf
+2017-06-25 13:30:01,Surrey League 2/3 - finished 2nd in the bunch with about 9 away,Ride,False,104.444,11,Race
+2017-06-26 10:05:20,Morning Ride,Ride,False,23.458,,Ride
+2017-06-27 08:55:18,Morning Ride,Ride,False,111.359,10,Ride
+2017-06-28 08:59:11,Morning Run,Run,False,8.191,,Run
+2017-06-29 18:32:33,Evening Ride,Ride,False,31.8597,,Ride
+2017-07-01 10:54:06,Portsmouth race - one to forget,Ride,False,42.3876,11,Race
+2017-07-02 11:03:51,Lunch Ride,Ride,False,39.2845,,Ride
+2017-07-03 16:39:28,Afternoon Ride,Ride,False,74.3472,,Ride
+2017-07-04 18:06:31,Evening Ride,Ride,False,18.380599999999998,,Ride
+2017-07-05 17:37:01,Afternoon Ride,Ride,False,15.5946,,Ride
+2017-07-05 19:05:41,Hillingdon Vets 3rd,Ride,False,45.8018,11,Race
+2017-07-05 20:38:07,Evening Ride,Ride,False,15.6975,,Ride
+2017-07-06 08:59:10,LD Thursday Morning Ride,Ride,False,107.347,,Ride
+2017-07-07 18:00:00,Evening Ride,Ride,False,33.604,,Ride
+2017-07-08 10:02:54,Race support ,Ride,False,19.4481,,Ride
+2017-07-09 14:29:58,Redbourn 2/3 bunch,Ride,False,32.882400000000004,11,Race
+2017-07-09 16:15:44,Redbourn vets - bunch - Hard doing two races in two hours,Ride,False,29.3199,11,Race
+2017-07-11 08:32:14,Morning Ride,Ride,False,39.241800000000005,,Ride
+2017-07-12 19:00:45,Dunsfold Vets - 3rd >50,Ride,False,48.2061,11,Race
+2017-07-13 08:51:00,LD Thursday Morning Ride,Ride,False,105.557,,Ride
+2017-07-14 17:53:54,Afternoon Ride,Ride,False,25.6708,,Ride
+2017-07-15 22:30:00,White Spider,RockClimbing,False,0.0,,RockClimbing
+2017-07-16 15:23:53,Afternoon Ride,Ride,False,16.0948,,Ride
+2017-07-16 16:33:53,Welwyn crit vets - off the back,Ride,False,19.740099999999998,11,Race
+2017-07-16 17:15:07,Afternoon Ride,Ride,False,33.3567,,Ride
+2017-07-17 14:09:13,Afternoon Ride,Ride,False,86.9037,,Ride
+2017-07-18 16:13:11,Afternoon Ride,Ride,False,18.046400000000002,,Ride
+2017-07-19 17:25:02,Afternoon Ride,Ride,False,15.550600000000001,,Ride
+2017-07-19 19:02:47,Hillingdon Vets - bunch - picked up a prime,Ride,False,44.4146,11,Race
+2017-07-19 20:41:10,Evening Ride,Ride,False,15.681899999999999,,Ride
+2017-07-20 14:51:14,Beats working,Ride,False,112.45,10,Ride
+2017-07-23 10:09:41,Morning Ride,Ride,False,29.0718,,Ride
+2017-07-24 09:12:38,Nightingale x 12,Ride,False,35.6435,,Ride
+2017-07-25 12:29:56,Jog/scramble through the bushes!,Run,False,6.1778,,Run
+2017-07-26 18:24:56,"Nice airfield, but no-one to race",Ride,False,33.4527,,Ride
+2017-07-27 18:33:17,Warm up,Ride,False,9.3291,,Ride
+2017-07-27 19:18:27,SL Handicap - bunch,Ride,False,36.807199999999995,11,Race
+2017-07-28 16:00:15,Afternoon Ride,Ride,False,8.3206,,Ride
+2017-07-28 16:34:54,Afternoon Ride,Ride,False,13.078,,Ride
+2017-07-29 07:01:51,Epsom 10m TT G10/57 22:15,Ride,False,15.8066,,Ride
+2017-07-30 19:23:45,Hayling Island 20 knots,Kitesurf,False,25.2509,,Kitesurf
+2017-07-31 09:08:37,Couple of quick laps - very windy,Ride,False,33.884800000000006,,Ride
+2017-08-01 17:33:23,To CP marshalling,Ride,False,18.0169,,Ride
+2017-08-01 20:09:58,Evening Ride,Ride,False,16.7643,,Ride
+2017-08-02 19:04:03,Hillingdon Vets - combined 10th,Ride,False,45.9854,11,Race
+2017-08-03 08:40:57,Intervals at VO2max,Ride,False,33.9655,,Ride
+2017-08-04 09:05:43,Headwind Tailwind,Ride,False,58.2172,,Ride
+2017-08-05 10:30:19,Morning Ride,Ride,False,19.1267,,Ride
+2017-08-06 13:30:05,SL Handcross 2/3 - bunch,Ride,False,107.133,11,Race
+2017-08-08 19:54:41,Short Hillingdon E/1/2 - bunch,Ride,False,35.1233,11,Race
+2017-08-08 20:48:53,Evening Ride,Ride,False,15.7021,,Ride
+2017-08-09 15:35:46,Turbo - Monaco descent,VirtualRide,False,32.3866,,VirtualRide
+2017-08-10 14:26:17,Afternoon Ride,Ride,False,28.8149,,Ride
+2017-08-11 14:37:33,Afternoon Ride,Ride,False,16.735799999999998,,Ride
+2017-08-12 19:23:02,"National Crit Champs - knocked off, nasty road rash",Ride,False,29.1546,11,Race
+2017-08-15 17:03:30,Standing Ride (seated not possible),Ride,False,22.728,,Ride
+2017-08-17 17:36:04,Afternoon Ride,Ride,False,44.3836,,Ride
+2017-08-18 11:37:18,Lunch Ride,Ride,False,22.118299999999998,,Ride
+2017-08-19 09:31:31,Morning Ride,Ride,False,35.188,,Ride
+2017-08-20 09:57:45,Morning Ride,Ride,False,29.319200000000002,,Ride
+2017-08-21 15:18:18,Afternoon Ride,Ride,False,21.545900000000003,,Ride
+2017-08-22 09:00:27,Morning Ride,Ride,False,93.9729,,Ride
+2017-08-22 17:18:22,Afternoon Ride,Ride,False,9.1775,,Ride
+2017-08-23 17:26:58,Afternoon Ride,Ride,False,15.7471,,Ride
+2017-08-23 18:49:27,Hillingdon Vets bunch - early break and 20 mins solo effort,Ride,False,38.306400000000004,11,Race
+2017-08-23 20:09:37,Evening Ride,Ride,False,17.0106,,Ride
+2017-08-24 10:13:13,Morning Ride,Ride,False,27.589,,Ride
+2017-08-26 07:43:39,LD Saturday Morning Ride,Ride,False,53.2422,,Ride
+2017-08-27 09:27:11,Vineyards tempo with Jamie,Ride,False,92.9465,10,Ride
+2017-08-28 08:01:59,Windsor with Dan,Ride,False,105.318,,Ride
+2017-08-30 18:46:42,Hillingdon Vets 3rd + prime,Ride,False,36.711800000000004,11,Race
+2017-08-31 12:09:29,MTB with Marcus,Ride,False,20.1187,,Ride
+2017-09-01 09:23:30,Morning Ride,Ride,False,28.519,,Ride
+2017-09-02 11:10:09,Lunch Ride,Ride,False,22.0533,,Ride
+2017-09-03 09:27:34,LVRC National Crit Champs - bunch ,Ride,False,42.9651,11,Race
+2017-09-04 17:05:28,Afternoon Run,Run,False,6.6928,,Run
+2017-09-05 08:58:45,Morning Ride with the boys,Ride,False,100.766,,Ride
+2017-09-06 21:30:00,Kitesurf gusty 16-20 knots,Kitesurf,False,15.0,,Kitesurf
+2017-09-07 12:00:00,Kitesurf 30 knots,Kitesurf,False,20.0,,Kitesurf
+2017-09-08 14:00:00,Kitesurfing in 30 knots again - very cold,Kitesurf,False,15.0,,Kitesurf
+2017-09-09 13:05:30,"When everything goes wrong, just ride",Ride,False,40.9604,,Ride
+2017-09-10 16:00:00,Kitesurfing impossible 45 knot gusts,Kitesurf,False,5.0,,Kitesurf
+2017-09-11 10:00:00,Kitesurf 28 knots,Kitesurf,False,20.0,,Kitesurf
+2017-09-12 10:09:47,Nothing Toulouse,Run,False,8.626700000000001,,Run
+2017-09-13 17:22:04,Afternoon Ride,Ride,False,15.4674,,Ride
+2017-09-13 18:29:37,Hillingdon Vets 5th,Ride,False,40.865,11,Race
+2017-09-13 20:01:44,Evening Ride,Ride,False,16.0546,,Ride
+2017-09-14 16:07:35,Hayling F3/4,Kitesurf,False,22.9389,,Kitesurf
+2017-09-15 08:12:34,Morning Ride,Ride,False,26.5649,,Ride
+2017-09-16 17:27:37,Afternoon Ride,Ride,False,13.0038,,Ride
+2017-09-19 16:52:50,Sa Roca El Toro,Ride,False,32.0201,,Ride
+2017-09-20 11:00:47,Lunch Run / Explore,Run,False,5.3582,,Run
+2017-09-21 17:35:09,St Tomas effort back,Ride,False,40.7127,,Ride
+2017-09-23 07:47:26,LD Saturday morning ride,Ride,False,53.4154,10,Ride
+2017-09-24 13:17:40,Gorgeous,Ride,False,86.8088,10,Ride
+2017-09-25 17:55:52,Afternoon Run,Run,False,7.3285,,Run
+2017-09-26 13:14:26,Sunny Surrey Solo,Ride,False,114.724,,Ride
+2017-09-27 15:18:29,Afternoon Ride,Ride,False,29.202900000000003,,Ride
+2017-09-29 10:36:56,Turbo 20mins@280,Ride,False,19.184099999999997,,Ride
+2017-09-30 07:45:03,LD Saturday Morning Ride,Ride,False,53.570800000000006,,Ride
+2017-10-01 08:33:57,Surrey - tempo efforts up two long hills,Ride,False,106.391,,Ride
+2017-10-02 12:16:13,Lunch Run,Run,False,6.7863,,Run
+2017-10-03 08:57:56,Indian Summer,Ride,False,97.1064,10,Ride
+2017-10-04 16:24:36,Afternoon Ride,Ride,False,38.896,,Ride
+2017-10-05 10:33:40,Some intervals,Ride,False,42.334199999999996,,Ride
+2017-10-06 09:41:33,Windsor to visit Arnaud,Ride,False,103.607,10,Ride
+2017-10-07 07:41:51,LD Saturday Morning Ride,Ride,False,53.506800000000005,,Ride
+2017-10-09 09:05:22,40-20 20-40,Ride,False,32.809,,Ride
+2017-10-10 16:23:03,Afternoon Ride,Ride,False,28.8477,,Ride
+2017-10-11 11:37:23,Nightingale x 12,Ride,False,30.5792,,Ride
+2017-10-12 10:47:31,African adventure,Ride,False,28.3066,10,Ride
+2017-10-13 09:25:45,Bath loop,Ride,False,30.7542,,Ride
+2017-10-15 10:18:16,Pre Race Spin,Ride,False,34.0553,10,Ride
+2017-10-16 09:33:18,European Masters Cup - 5th in age group,Ride,False,61.7914,11,Race
+2017-10-17 09:14:22,Masters Tour of Mallorca Stage 1,Ride,False,62.2898,11,Race
+2017-10-18 09:11:00,Masters Tour of Mallorca Stage 2 - BAD DAY :(,Ride,False,70.4802,11,Race
+2017-10-19 09:30:45,Masters Tour of Mallorca Stage 3 -TT Decent ride on road bike - 14th,Ride,False,7.2074,11,Race
+2017-10-20 09:11:17,Masters Tour of Mallorca Stage 4 - bunch finish,Ride,False,61.801,11,Race
+2017-10-21 08:49:24,Lighthouse,Ride,False,51.9923,,Ride
+2017-10-22 10:40:59,RP 5km loop,Run,False,6.0673,,Run
+2017-10-23 09:18:12,Morning Ride,Ride,False,26.3884,,Ride
+2017-10-24 12:16:50,Lunch Ride,Ride,False,27.2635,,Ride
+2017-10-25 09:21:04,Leith Hill Climb recce,Ride,False,111.146,,Ride
+2017-10-26 11:47:36,Put a smile on his face,Run,False,8.5314,,Run
+2017-10-28 08:34:34,Ride out,Ride,False,43.5622,,Ride
+2017-10-28 10:47:14,London Dynamo Hill Climb,Ride,False,1.3480999999999999,11,Race
+2017-10-28 11:32:20,Ride home,Ride,False,45.7209,,Ride
+2017-10-29 14:44:27,Afternoon Ride,Ride,False,27.398,,Ride
+2017-10-30 07:47:14,Morning Run,Run,False,6.6633000000000004,,Run
+2017-10-31 08:51:47,Just The Washing Instruction Chip In Life's Rich Tapestry,Ride,False,100.174,,Ride
+2017-11-01 08:42:27,MTB with Nicky,Ride,False,11.2989,,Ride
+2017-11-02 08:46:34,Morning Ride,Ride,False,28.8594,,Ride
+2017-11-03 10:42:41,Spinning with Robin,Ride,False,40.1633,,Ride
+2017-11-04 20:52:46,White Spider,RockClimbing,False,0.0,,RockClimbing
+2017-11-05 09:42:26,Morning Ride,Ride,True,8.2234,,Trainer
+2017-11-06 15:28:59,Afternoon Run,Run,False,6.1112,,Run
+2017-11-07 08:47:49,Arboreal seasonal anomaly,Ride,False,94.0285,10,Ride
+2017-11-08 15:30:38,Afternoon Ride,Ride,False,26.3457,,Ride
+2017-11-09 09:15:21,Morning Run,Run,False,11.6299,,Run
+2017-11-10 14:47:46,Afternoon Ride,Ride,False,28.9151,,Ride
+2017-11-11 11:30:00,White Spider,RockClimbing,False,0.0,,RockClimbing
+2017-11-12 09:43:53,Spin it up,Ride,False,28.9513,,Ride
+2017-11-13 11:00:00,MTB on the commons ,Ride,False,25.0,,Ride
+2017-11-14 08:09:32,Surrey solo,Ride,False,88.07339999999999,,Ride
+2017-11-15 15:32:52,Afternoon Run,Run,False,9.8551,,Run
+2017-11-16 08:55:54,LD Thursday Windsor Ride,Ride,False,105.224,,Ride
+2017-11-18 07:42:09,LD Saturday Morning Ride,Ride,False,53.5725,,Ride
+2017-11-19 10:34:00,Morning Ride,Ride,False,26.6467,,Ride
+2017-11-20 10:05:06,Nightingale x 12,Ride,False,36.8069,,Ride
+2017-11-21 08:57:18,LD Surrey ride,Ride,False,90.606,10,Ride
+2017-11-22 14:56:42,Afternoon Run,Run,False,9.7786,,Run
+2017-11-23 16:15:55,Afternoon Run,Run,False,6.0563,,Run
+2017-11-24 09:30:23,Morning Ride,Ride,False,48.651,,Ride
+2017-11-25 08:42:05,LD Saturday Morning Ride,Ride,False,53.5154,,Ride
+2017-11-26 08:35:14,Riko's Aufwiedersehen Ride,Ride,False,141.206,10,Ride
+2017-11-28 08:33:16,Surrey solo,Ride,False,86.87219999999999,,Ride
+2017-11-30 08:55:27,LD Windsor ride,Ride,False,100.27,,Ride
+2017-12-01 10:33:59,Morning Run,Run,False,11.515799999999999,,Run
+2017-12-02 08:43:00,LD Saturday Morning Ride,Ride,False,64.3523,,Ride
+2017-12-03 08:25:07,Windsor quick two-up with Ioan,Ride,False,104.208,,Ride
+2017-12-05 08:56:47,"LD Tuesday short, easy Surrey",Ride,False,66.85910000000001,,Ride
+2017-12-06 10:24:00,White Spider,RockClimbing,False,0.0,,RockClimbing
+2017-12-07 09:43:11,BC FTP PROTOCOL,VirtualRide,True,31.3138,,Trainer
+2017-12-08 10:20:47,Morning Ride,Ride,False,26.0607,10,Ride
+2017-12-09 08:40:24,Feeling a bit sick,Ride,False,29.2295,10,Ride
+2017-12-10 16:03:32,"Dark, snowy, muddy, but reasonably quick",Run,False,11.5266,,Run
