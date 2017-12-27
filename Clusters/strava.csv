@@ -24,7 +24,7 @@ DateTime,Name,Sport,Trainer,Distance,Workout_Type,Type
 2014-02-09 08:36:22,Richmond Park easy lap,Run,False,11.585,0,Run
 2014-02-11 19:42:19,Turbo 2x20mins @ 300W,Ride,True,37.687599999999996,,Trainer
 2014-02-13 19:20:38,"13/02/2014 Richmond, Greater London, United Kingdom",Run,False,7.0113,0,Run
-2014-02-15 11:16:32,London Dynamos Handicap race,Ride,False,80.7224,,Ride
+2014-02-15 11:16:32,London Dynamos Handicap race,Ride,False,80.7224,11,Race
 2014-02-16 09:26:06,Surrey Hills with Jamie,Ride,False,89.7079,,Ride
 2014-02-19 19:22:11,"19/02/2014 Richmond, Greater London, United Kingdom",Run,False,7.9803999999999995,0,Run
 2014-02-22 13:38:27,"22/02/2014 Palma De Mallorca, PM, Spain",Ride,False,69.4621,,Ride
@@ -570,7 +570,7 @@ DateTime,Name,Sport,Trainer,Distance,Workout_Type,Type
 2016-07-17 11:33:32,Lunch Ride,Ride,False,29.2318,,Ride
 2016-07-18 09:00:35,Short Surrey Ride with Paul and Chris,Ride,False,100.015,,Ride
 2016-07-20 17:16:16,Afternoon Ride,Ride,False,15.4604,,Ride
-2016-07-20 19:02:05,"Hillingdon Vets 1st over 50, 2th over the line",Ride,False,48.7102,,Ride
+2016-07-20 19:02:05,"Hillingdon Vets 1st over 50, 2th over the line",Ride,False,48.7102,11,Race
 2016-07-20 20:33:59,Evening Ride,Ride,False,15.5334,,Ride
 2016-07-21 12:18:31,MTB Bracknell,Ride,False,21.971400000000003,10,Ride
 2016-07-22 18:29:27,Evening Ride,Ride,False,30.138099999999998,,Ride
@@ -794,7 +794,7 @@ DateTime,Name,Sport,Trainer,Distance,Workout_Type,Type
 2017-03-24 14:38:05,MTB with Kurt,Ride,False,25.8029,,Ride
 2017-03-25 07:41:40,LD Saturday Morning Ride,Ride,False,63.606,,Ride
 2017-03-26 11:17:52,Lunch Ride,Ride,False,45.6142,,Ride
-2017-03-27 11:52:04,Walton ride sitting in behind Jamie,Ride,True,9.8111,,Trainer
+2017-03-27 11:52:04,Walton ride sitting in behind Jamie,Ride,False,9.8111,,Ride
 2017-03-27 12:13:05,Ramp Test,Ride,True,7.3601,,Trainer
 2017-03-27 12:57:40,Lunch Ride,Ride,False,17.8317,,Ride
 2017-03-28 08:52:00,Surrey ride,Ride,False,109.042,,Ride
@@ -1049,3 +1049,17 @@ DateTime,Name,Sport,Trainer,Distance,Workout_Type,Type
 2017-12-08 10:20:47,Morning Ride,Ride,False,26.0607,10,Ride
 2017-12-09 08:40:24,Feeling a bit sick,Ride,False,29.2295,10,Ride
 2017-12-10 16:03:32,"Dark, snowy, muddy, but reasonably quick",Run,False,11.5266,,Run
+2017-12-11 09:23:41,Turbo Mallorca Stage 4,VirtualRide,False,61.710800000000006,,VirtualRide
+2017-12-12 08:45:49,Chilly in Chertsey,Ride,False,56.9491,10,Ride
+2017-12-13 10:33:48,Turbo 11 @ 330,VirtualRide,True,43.724199999999996,,Trainer
+2017-12-14 08:11:28,Morning Run,Run,False,7.793699999999999,,Run
+2017-12-15 10:10:51,MTB mainly off road,Ride,False,37.287699999999994,10,Ride
+2017-12-16 08:41:31,Richmond Ice Rink,Ride,False,42.4756,,Ride
+2017-12-18 07:01:50,"Resting HR, first day at 1800m",Workout,True,0.0,,Trainer
+2017-12-18 09:33:35,Loads of snow,AlpineSki,False,84.54660000000001,,AlpineSki
+2017-12-19 09:06:38,Sunshine and powder,AlpineSki,False,91.2715,,AlpineSki
+2017-12-20 08:59:09,More sunshine and power,AlpineSki,False,40.8311,,AlpineSki
+2017-12-21 08:57:25,More sun and ski - big day,AlpineSki,False,103.232,,AlpineSki
+2017-12-22 10:03:06,Final day skiing,AlpineSki,False,98.7954,,AlpineSki
+2017-12-23 12:05:33,Spinning,Ride,False,29.112299999999998,,Ride
+2017-12-24 09:09:39,Easy ride with Jamie - very low HR,Ride,False,67.64489999999999,,Ride
